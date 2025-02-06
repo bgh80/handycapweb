@@ -1,0 +1,4047 @@
+[
+    {
+        "name": "Mount Lawley Golf Club",
+        "url": "mlgc.miclub.com.au",
+        "leaderboardId": "mlgc"
+    },
+    {
+        "name": "Develop",
+        "url": "develop.miclub.com.au",
+        "leaderboardId": "develop"
+    },
+    {
+        "name": "Demo",
+        "url": "demo.miclub.com.au",
+        "leaderboardId": "demo"
+    },
+    {
+        "name": "PGN (Perth Golf network)",
+        "url": "perthgolfnetwork.miclub.com.au",
+        "leaderboardId": "perthgolfnetwork"
+    },
+    {
+        "name": "Wembley Golf Course",
+        "url": "wembley.miclub.com.au",
+        "leaderboardId": "wembley"
+    },
+    {
+        "name": "Lake Karrinyup Country Club",
+        "url": "karrinyup.miclub.com.au",
+        "leaderboardId": "karrinyup"
+    },
+    {
+        "name": "Lakelands Country Club",
+        "url": "lakelands.miclub.com.au",
+        "leaderboardId": "lakelands"
+    },
+    {
+        "name": "Cottesloe Golf Club",
+        "url": "cottesloe.miclub.com.au",
+        "leaderboardId": "cottesloe"
+    },
+    {
+        "name": "The Royal Melbourne Golf Club",
+        "url": "royalmelbourne.miclub.com.au",
+        "leaderboardId": "royalmelbourne"
+    },
+    {
+        "name": "Kew Golf Club",
+        "url": "kew.miclub.com.au",
+        "leaderboardId": "kew"
+    },
+    {
+        "name": "The Metropolitan Golf Club",
+        "url": "metropolitan.miclub.com.au",
+        "leaderboardId": "metropolitan"
+    },
+    {
+        "name": "Peninsula Kingswood",
+        "url": "peninsula.miclub.com.au",
+        "leaderboardId": "peninsula"
+    },
+    {
+        "name": "Victoria Golf Club",
+        "url": "victoria.miclub.com.au",
+        "leaderboardId": "victoria"
+    },
+    {
+        "name": "Box Hill Golf Club",
+        "url": "boxhill.miclub.com.au",
+        "leaderboardId": "boxhill"
+    },
+    {
+        "name": "Royal Perth Golf Club",
+        "url": "royalperth.miclub.com.au",
+        "leaderboardId": "royalperth"
+    },
+    {
+        "name": "Brisbane Golf Club",
+        "url": "brisbane.miclub.com.au",
+        "leaderboardId": "brisbane"
+    },
+    {
+        "name": "Eastern Golf Club ",
+        "url": "eastern.miclub.com.au",
+        "leaderboardId": "eastern"
+    },
+    {
+        "name": "Federal Golf Club",
+        "url": "federal.miclub.com.au",
+        "leaderboardId": "federal"
+    },
+    {
+        "name": "Riversdale Golf Club",
+        "url": "riversdale.miclub.com.au",
+        "leaderboardId": "riversdale"
+    },
+    {
+        "name": "Headland Golf Club",
+        "url": "headland.miclub.com.au",
+        "leaderboardId": "headland"
+    },
+    {
+        "name": "The Vines Resort & Country Club",
+        "url": "thevines.miclub.com.au",
+        "leaderboardId": "thevines"
+    },
+    {
+        "name": "The National",
+        "url": "national.miclub.com.au",
+        "leaderboardId": "national"
+    },
+    {
+        "name": "RACV Cape Schanck Resort",
+        "url": "capeschanck.miclub.com.au",
+        "leaderboardId": "capeschanck"
+    },
+    {
+        "name": "Heidelberg Golf Club",
+        "url": "heidelberg.miclub.com.au",
+        "leaderboardId": "heidelberg"
+    },
+    {
+        "name": "Wanneroo Golf Club",
+        "url": "wanneroo.miclub.com.au",
+        "leaderboardId": "wanneroo"
+    },
+    {
+        "name": "Flinders Golf Club",
+        "url": "flinders.miclub.com.au",
+        "leaderboardId": "flinders"
+    },
+    {
+        "name": "Sea View Golf Club",
+        "url": "seaview.miclub.com.au",
+        "leaderboardId": "seaview"
+    },
+    {
+        "name": "Sanctuary Cove Golf and Country Club",
+        "url": "sanctuarycove.miclub.com.au",
+        "leaderboardId": "sanctuarycove"
+    },
+    {
+        "name": "13th Beach Golf Links",
+        "url": "13thbeach.miclub.com.au",
+        "leaderboardId": "13thbeach"
+    },
+    {
+        "name": "North Adelaide Golf Course",
+        "url": "northadelaide.miclub.com.au",
+        "leaderboardId": "adelaidelinks"
+    },
+    {
+        "name": "West Beach Parks Golf",
+        "url": "adelaideshores.miclub.com.au",
+        "leaderboardId": "adelaideshores"
+    },
+    {
+        "name": "Albany Golf Club",
+        "url": "albany.miclub.com.au",
+        "leaderboardId": "albany"
+    },
+    {
+        "name": "Albert Park Women's Golf Club",
+        "url": "albertpark.miclub.com.au",
+        "leaderboardId": "albertpark"
+    },
+    {
+        "name": "Alice Springs Golf Club",
+        "url": "alicesprings.miclub.com.au",
+        "leaderboardId": "alicesprings"
+    },
+    {
+        "name": "Altona Lakes Golf Club",
+        "url": "altonalakes.miclub.com.au",
+        "leaderboardId": "altonalakes"
+    },
+    {
+        "name": "Antill Park Country Golf Club",
+        "url": "antillpark.miclub.com.au",
+        "leaderboardId": "antillpark"
+    },
+    {
+        "name": "Araluen Golf Club (Members)",
+        "url": "araluengc.miclub.com.au",
+        "leaderboardId": "araluengc"
+    },
+    {
+        "name": "Ardrossan Golf Club",
+        "url": "ardrossan.miclub.com.au",
+        "leaderboardId": "ardrossan"
+    },
+    {
+        "name": "Arundel Hills Country Club",
+        "url": "arundelhills.miclub.com.au",
+        "leaderboardId": "arundelhills"
+    },
+    {
+        "name": "Asquith Golf Club",
+        "url": "asquith.miclub.com.au",
+        "leaderboardId": "asquith"
+    },
+    {
+        "name": "Atherton Golf Club",
+        "url": "atherton.miclub.com.au",
+        "leaderboardId": "atherton"
+    },
+    {
+        "name": "Augusta Golf Club",
+        "url": "augusta.miclub.com.au",
+        "leaderboardId": "augusta"
+    },
+    {
+        "name": "The Australian Golf Club",
+        "url": "australian.miclub.com.au",
+        "leaderboardId": "australian"
+    },
+    {
+        "name": "Avondale Golf Club",
+        "url": "avondale.miclub.com.au",
+        "leaderboardId": "avondale"
+    },
+    {
+        "name": "Ayr Golf Club",
+        "url": "ayr.miclub.com.au",
+        "leaderboardId": "ayr"
+    },
+    {
+        "name": "Bairnsdale Golf Club",
+        "url": "bairnsdale.miclub.com.au",
+        "leaderboardId": "bairnsdale"
+    },
+    {
+        "name": "Balaklava Golf Club",
+        "url": "balaklavagc.miclub.com.au",
+        "leaderboardId": "balaklavagc"
+    },
+    {
+        "name": "Balgowlah Golf Club",
+        "url": "balgowlah.miclub.com.au",
+        "leaderboardId": "balgowlah"
+    },
+    {
+        "name": "Ballina Golf Club",
+        "url": "ballina.miclub.com.au",
+        "leaderboardId": "ballina"
+    },
+    {
+        "name": "Bankstown Golf Club",
+        "url": "bankstown.miclub.com.au",
+        "leaderboardId": "bankstown"
+    },
+    {
+        "name": "Barnwell Park Golf Club",
+        "url": "barnwellpark.miclub.com.au",
+        "leaderboardId": "barnwellpark"
+    },
+    {
+        "name": "Barrenjoey Women's Classic",
+        "url": "barrenjoey.miclub.com.au",
+        "leaderboardId": "barrenjoey"
+    },
+    {
+        "name": "The Barwon Heads Golf Club",
+        "url": "barwonheads.miclub.com.au",
+        "leaderboardId": "barwonheads"
+    },
+    {
+        "name": "Barwon Valley Golf Club",
+        "url": "barwonvalleygc.miclub.com.au",
+        "leaderboardId": "barwonvalleygc"
+    },
+    {
+        "name": "BDVGA",
+        "url": "bdvga.miclub.com.au",
+        "leaderboardId": "bdvga"
+    },
+    {
+        "name": "Cardinia Beaconhills Golf Links",
+        "url": "beaconhills.miclub.com.au",
+        "leaderboardId": "beaconhills"
+    },
+    {
+        "name": "Beaudesert Golf Club",
+        "url": "beaudesert.miclub.com.au",
+        "leaderboardId": "beaudesert"
+    },
+    {
+        "name": "Burns Golf Club Belconnen",
+        "url": "belconnen.miclub.com.au",
+        "leaderboardId": "belconnen"
+    },
+    {
+        "name": "Bellarine Lakes Resort Golf Club",
+        "url": "bellarinelakes.miclub.com.au",
+        "leaderboardId": "bellarinelakes"
+    },
+    {
+        "name": "Belmont Golf Club",
+        "url": "belmont.miclub.com.au",
+        "leaderboardId": "belmont"
+    },
+    {
+        "name": "Bendigo Golf Club",
+        "url": "bendigo.miclub.com.au",
+        "leaderboardId": "bendigo"
+    },
+    {
+        "name": "Berri Golf Club",
+        "url": "berri.miclub.com.au",
+        "leaderboardId": "berri"
+    },
+    {
+        "name": "Beverley Park",
+        "url": "beverleypark.miclub.com.au",
+        "leaderboardId": "beverleypark"
+    },
+    {
+        "name": "Bexley Golf Club",
+        "url": "bexley.miclub.com.au",
+        "leaderboardId": "bexley"
+    },
+    {
+        "name": "Binningup Golf Club",
+        "url": "binningup.miclub.com.au",
+        "leaderboardId": "binningup"
+    },
+    {
+        "name": "Black Bull Golf Club",
+        "url": "blackbull.miclub.com.au",
+        "leaderboardId": "blackbull"
+    },
+    {
+        "name": "Black Springs Golf Club",
+        "url": "miscoresocial.miclub.com.au",
+        "leaderboardId": "blacksprings"
+    },
+    {
+        "name": "Blue Lake Golf Club",
+        "url": "bluelake.miclub.com.au",
+        "leaderboardId": "bluelake"
+    },
+    {
+        "name": "Bolgart Golf Club",
+        "url": "bolgart.miclub.com.au",
+        "leaderboardId": "bolgart"
+    },
+    {
+        "name": "Bonnie Doon Golf Club",
+        "url": "bonniedoon.miclub.com.au",
+        "leaderboardId": "bonniedoon"
+    },
+    {
+        "name": "Bowen Golf Club",
+        "url": "bowen.miclub.com.au",
+        "leaderboardId": "bowen"
+    },
+    {
+        "name": "Bribie Island Golf Club",
+        "url": "bribieisland.miclub.com.au",
+        "leaderboardId": "bribieisland"
+    },
+    {
+        "name": "Bright Country Golf Club",
+        "url": "bright.miclub.com.au",
+        "leaderboardId": "bright"
+    },
+    {
+        "name": "Broadford Golf Club",
+        "url": "broadford.miclub.com.au",
+        "leaderboardId": "broadford"
+    },
+    {
+        "name": "Brookton Golf Club",
+        "url": "brookton.miclub.com.au",
+        "leaderboardId": "brookton"
+    },
+    {
+        "name": "Brookwater Golf Club",
+        "url": "brookwater.miclub.com.au",
+        "leaderboardId": "brookwater"
+    },
+    {
+        "name": "Broome Golf Club",
+        "url": "broome.miclub.com.au",
+        "leaderboardId": "broome"
+    },
+    {
+        "name": "Bunbury Golf Club",
+        "url": "bunbury.miclub.com.au",
+        "leaderboardId": "bunbury"
+    },
+    {
+        "name": "Burleigh Golf Club",
+        "url": "burleigh.miclub.com.au",
+        "leaderboardId": "burleigh"
+    },
+    {
+        "name": "Busselton Golf Club",
+        "url": "busselton.miclub.com.au",
+        "leaderboardId": "busselton"
+    },
+    {
+        "name": "Brisbane Water District Vets Golf Club",
+        "url": "bwdvgc.miclub.com.au",
+        "leaderboardId": "bwdvgc"
+    },
+    {
+        "name": "Caboolture Golf Club",
+        "url": "caboolture.miclub.com.au",
+        "leaderboardId": "caboolture"
+    },
+    {
+        "name": "Caloundra Golf Club",
+        "url": "caloundra.miclub.com.au",
+        "leaderboardId": "caloundra"
+    },
+    {
+        "name": "Camberwell Golf Club",
+        "url": "camberwell.miclub.com.au",
+        "leaderboardId": "camberwell"
+    },
+    {
+        "name": "Camden Golf Club",
+        "url": "camden.miclub.com.au",
+        "leaderboardId": "camden"
+    },
+    {
+        "name": "Campbelltown Golf Club",
+        "url": "campbelltown.miclub.com.au",
+        "leaderboardId": "campbelltown"
+    },
+    {
+        "name": "Canungra Golf Club",
+        "url": "canungra.miclub.com.au",
+        "leaderboardId": "canungra"
+    },
+    {
+        "name": "Capel Golf Club",
+        "url": "capel.miclub.com.au",
+        "leaderboardId": "capel"
+    },
+    {
+        "name": "Capital Public Golf Course",
+        "url": "capital.miclub.com.au",
+        "leaderboardId": "capital"
+    },
+    {
+        "name": "Carbrook Golf Club",
+        "url": "carbrook.miclub.com.au",
+        "leaderboardId": "carbrook"
+    },
+    {
+        "name": "Carnarvon Golf Club",
+        "url": "carnarvon.miclub.com.au",
+        "leaderboardId": "carnarvon"
+    },
+    {
+        "name": "Carnarvon Golf Club",
+        "url": "carnarvongc.miclub.com.au",
+        "leaderboardId": "carnarvongc"
+    },
+    {
+        "name": "Carpentaria Golf Club",
+        "url": "carpentaria.miclub.com.au",
+        "leaderboardId": "carpentaria"
+    },
+    {
+        "name": "Carramar Social Club",
+        "url": "carramarsgc.miclub.com.au",
+        "leaderboardId": "carramarsgc"
+    },
+    {
+        "name": "Castlecove Golf Club",
+        "url": "castlecove.miclub.com.au",
+        "leaderboardId": "castlecove"
+    },
+    {
+        "name": "Castle Hill Country Club",
+        "url": "castlehill.miclub.com.au",
+        "leaderboardId": "castlehill"
+    },
+    {
+        "name": "Catalina Country Club",
+        "url": "catalina.miclub.com.au",
+        "leaderboardId": "catalina"
+    },
+    {
+        "name": "Centenary Park Golf Course",
+        "url": "centenaryparkgc.miclub.com.au",
+        "leaderboardId": "centenaryparkgc"
+    },
+    {
+        "name": "Chinese Golf Association",
+        "url": "cga.miclub.com.au",
+        "leaderboardId": "cga"
+    },
+    {
+        "name": "Charlestown Golf Club",
+        "url": "charlestown.miclub.com.au",
+        "leaderboardId": "charlestown"
+    },
+    {
+        "name": "Charters Towers Golf Club",
+        "url": "charterstowers.miclub.com.au",
+        "leaderboardId": "charterstowers"
+    },
+    {
+        "name": "Cheltenham Golf Club",
+        "url": "cheltenham.miclub.com.au",
+        "leaderboardId": "cheltenham"
+    },
+    {
+        "name": "City Golf Club",
+        "url": "city.miclub.com.au",
+        "leaderboardId": "city"
+    },
+    {
+        "name": "Jaini",
+        "url": "test04.miclub.com.au",
+        "leaderboardId": ""
+    },
+    {
+        "name": "Classic Golf Club",
+        "url": "classicsocial.miclub.com.au",
+        "leaderboardId": "classicsocial"
+    },
+    {
+        "name": "Clermont Golf Club",
+        "url": "clermont.miclub.com.au",
+        "leaderboardId": "clermont"
+    },
+    {
+        "name": "Clifton Springs Golf Club",
+        "url": "cliftonsprings.miclub.com.au",
+        "leaderboardId": "cliftonsprings"
+    },
+    {
+        "name": "The Coast Golf & Recreation Club",
+        "url": "coast.miclub.com.au",
+        "leaderboardId": "coast"
+    },
+    {
+        "name": "Collie Golf Club",
+        "url": "collie.miclub.com.au",
+        "leaderboardId": "collie"
+    },
+    {
+        "name": "Collier Park Golf Course",
+        "url": "collierpark.miclub.com.au",
+        "leaderboardId": "collierpark"
+    },
+    {
+        "name": "Collier Pines Ladies Golf Club",
+        "url": "collierpines.miclub.com.au",
+        "leaderboardId": "collierpines"
+    },
+    {
+        "name": "Palmer Gold Coast & Colonial Golf Club",
+        "url": "colonialrobina.miclub.com.au",
+        "leaderboardId": "colonialrobina"
+    },
+    {
+        "name": "Commonwealth Golf Club",
+        "url": "commonwealth.miclub.com.au",
+        "leaderboardId": "commonwealth"
+    },
+    {
+        "name": "Concord Golf Club",
+        "url": "concord.miclub.com.au",
+        "leaderboardId": "concord"
+    },
+    {
+        "name": "Coolangatta & Tweed Heads GC",
+        "url": "coolangatta.miclub.com.au",
+        "leaderboardId": "coolangatta"
+    },
+    {
+        "name": "Cooma Golf Club",
+        "url": "cooma.miclub.com.au",
+        "leaderboardId": "cooma"
+    },
+    {
+        "name": "Copper Club",
+        "url": "copperclub.miclub.com.au",
+        "leaderboardId": "copperclub"
+    },
+    {
+        "name": "Corrigin Golf Club",
+        "url": "corrigin.miclub.com.au",
+        "leaderboardId": "corrigin"
+    },
+    {
+        "name": "Craigieburn Willmott Golf Club",
+        "url": "craigieburn.miclub.com.au",
+        "leaderboardId": "craigieburn"
+    },
+    {
+        "name": "Cranbourne Golf Club",
+        "url": "cranbourne.miclub.com.au",
+        "leaderboardId": "cranbourne"
+    },
+    {
+        "name": "Creekside Golf Club",
+        "url": "creekside.miclub.com.au",
+        "leaderboardId": "creekside"
+    },
+    {
+        "name": "Cromer Golf Club",
+        "url": "cromer.miclub.com.au",
+        "leaderboardId": "cromer"
+    },
+    {
+        "name": "Cronulla Golf Club",
+        "url": "cronulla.miclub.com.au",
+        "leaderboardId": "cronulla"
+    },
+    {
+        "name": "Yering Meadows Golf Club",
+        "url": "yeringmeadows.miclub.com.au",
+        "leaderboardId": "yeringmeadows"
+    },
+    {
+        "name": "Central Southern Golf Assocation",
+        "url": "csga.miclub.com.au",
+        "leaderboardId": "csga"
+    },
+    {
+        "name": "Chinderah / Tweed Golfers",
+        "url": "ctg.miclub.com.au",
+        "leaderboardId": "ctg"
+    },
+    {
+        "name": "Curlewis Golf Club",
+        "url": "curlewis.miclub.com.au",
+        "leaderboardId": "curlewis"
+    },
+    {
+        "name": "Cypress Lakes Golf Club",
+        "url": "cypresslakes.miclub.com.au",
+        "leaderboardId": "cypresslakes"
+    },
+    {
+        "name": "Dalby Golf Club",
+        "url": "dalby.miclub.com.au",
+        "leaderboardId": "dalby"
+    },
+    {
+        "name": "Darwin Golf Club",
+        "url": "darwin.miclub.com.au",
+        "leaderboardId": "darwin"
+    },
+    {
+        "name": "Denmark Country Club",
+        "url": "denmark.miclub.com.au",
+        "leaderboardId": "denmark"
+    },
+    {
+        "name": "Derby Golf Club",
+        "url": "derby.miclub.com.au",
+        "leaderboardId": "derby"
+    },
+    {
+        "name": "Devil Bend Golf Club",
+        "url": "devilbend.miclub.com.au",
+        "leaderboardId": "devilbend"
+    },
+    {
+        "name": "Devonport Country Club",
+        "url": "devonport.miclub.com.au",
+        "leaderboardId": "devonport"
+    },
+    {
+        "name": "Dongara Golf Club",
+        "url": "dongara.miclub.com.au",
+        "leaderboardId": "dongara"
+    },
+    {
+        "name": "Donnybrook Country Club",
+        "url": "donnybrook.miclub.com.au",
+        "leaderboardId": "donnybrook"
+    },
+    {
+        "name": "Dorset Golf",
+        "url": "dorsetgc.miclub.com.au",
+        "leaderboardId": "dorsetgc"
+    },
+    {
+        "name": "Dubbo Golf Club",
+        "url": "dubbo.miclub.com.au",
+        "leaderboardId": "dubbo"
+    },
+    {
+        "name": "The Dunes Golf Links",
+        "url": "dunes.miclub.com.au",
+        "leaderboardId": "dunes"
+    },
+    {
+        "name": "Eagle Ridge Golf Club",
+        "url": "eagleridge.miclub.com.au",
+        "leaderboardId": "eagleridge"
+    },
+    {
+        "name": "East Bentleigh YWCA Golf Club",
+        "url": "eastbentleigh.miclub.com.au",
+        "leaderboardId": "eastbentleigh"
+    },
+    {
+        "name": "Eastern Sward Golf Club",
+        "url": "easternsward.miclub.com.au",
+        "leaderboardId": "easternsward"
+    },
+    {
+        "name": "Eastlake Golf Club",
+        "url": "eastlake.miclub.com.au",
+        "leaderboardId": "eastlake"
+    },
+    {
+        "name": "Eastwood Golf Club",
+        "url": "eastwood.miclub.com.au",
+        "leaderboardId": "eastwood"
+    },
+    {
+        "name": "Elanora Country Club",
+        "url": "elanora.miclub.com.au",
+        "leaderboardId": "elanora"
+    },
+    {
+        "name": "Emerald Golf Club",
+        "url": "emerald.miclub.com.au",
+        "leaderboardId": "emerald"
+    },
+    {
+        "name": "Emerald Downs Golf Club",
+        "url": "emeralddowns.miclub.com.au",
+        "leaderboardId": "emeralddowns"
+    },
+    {
+        "name": "Everglades Country Club",
+        "url": "everglades.miclub.com.au",
+        "leaderboardId": "everglades"
+    },
+    {
+        "name": "Exmouth Golf Club",
+        "url": "exmouth.miclub.com.au",
+        "leaderboardId": "exmouth"
+    },
+    {
+        "name": "Fairfield Golf Club",
+        "url": "fairfield.miclub.com.au",
+        "leaderboardId": "fairfield"
+    },
+    {
+        "name": "Forest Hills Golf Club",
+        "url": "foresthills.miclub.com.au",
+        "leaderboardId": "foresthills"
+    },
+    {
+        "name": "Forster-Tuncurry",
+        "url": "forstertuncurry.miclub.com.au",
+        "leaderboardId": "forstertuncurry"
+    },
+    {
+        "name": "Freycinet Golf Club",
+        "url": "freycinetgc.miclub.com.au",
+        "leaderboardId": "freycinetgc"
+    },
+    {
+        "name": "Fuson",
+        "url": "fuson.miclub.com.au",
+        "leaderboardId": "fuson"
+    },
+    {
+        "name": "Chirnside Park CC & Gardiners Run Golf Club",
+        "url": "chirnsidepark.miclub.com.au",
+        "leaderboardId": "chirnsidepark"
+    },
+    {
+        "name": "Sandy Creek Golf Club",
+        "url": "sandycreek.miclub.com.au",
+        "leaderboardId": "sandycreek"
+    },
+    {
+        "name": "Geelong Golf Club",
+        "url": "geelong.miclub.com.au",
+        "leaderboardId": "geelong"
+    },
+    {
+        "name": "Georges River Golf Club",
+        "url": "georgesriver.miclub.com.au",
+        "leaderboardId": "georgesriver"
+    },
+    {
+        "name": "Geraldton Golf Club",
+        "url": "geraldton.miclub.com.au",
+        "leaderboardId": "geraldton"
+    },
+    {
+        "name": "Gingin Golf Club",
+        "url": "gingin.miclub.com.au",
+        "leaderboardId": "gingin"
+    },
+    {
+        "name": "Gisborne Golf Club",
+        "url": "gisbornegc.miclub.com.au",
+        "leaderboardId": "gisbornegc"
+    },
+    {
+        "name": "Gladstone Golf Club",
+        "url": "gladstonegc.miclub.com.au",
+        "leaderboardId": "gladstonegc"
+    },
+    {
+        "name": "Glenelg Golf Club",
+        "url": "glenelg.miclub.com.au",
+        "leaderboardId": "glenelg"
+    },
+    {
+        "name": "Glen Innes Golf Club",
+        "url": "gleninnes.miclub.com.au",
+        "leaderboardId": "gleninnes"
+    },
+    {
+        "name": "Glen Waverley Golf Club",
+        "url": "glenwaverley.miclub.com.au",
+        "leaderboardId": "glenwaverley"
+    },
+    {
+        "name": "Gold Coast Veterans Association",
+        "url": "goldcoastvets.miclub.com.au",
+        "leaderboardId": "goldcoastvets"
+    },
+    {
+        "name": "Golf North Queensland",
+        "url": "golfnq.miclub.com.au",
+        "leaderboardId": "golfnq"
+    },
+    {
+        "name": "Golf Queensland",
+        "url": "golfqld.miclub.com.au",
+        "leaderboardId": "golfqld"
+    },
+    {
+        "name": "Golf SA",
+        "url": "golfsa.miclub.com.au",
+        "leaderboardId": "golfsa"
+    },
+    {
+        "name": "GolfWA",
+        "url": "golfwa.miclub.com.au",
+        "leaderboardId": "golfwa"
+    },
+    {
+        "name": "Goomalling Golf Club",
+        "url": "goomalling.miclub.com.au",
+        "leaderboardId": "goomalling"
+    },
+    {
+        "name": "Goonawarra Golf Club",
+        "url": "goonawarra.miclub.com.au",
+        "leaderboardId": "goonawarra"
+    },
+    {
+        "name": "Gordon Golf Club",
+        "url": "gordon.miclub.com.au",
+        "leaderboardId": "gordon"
+    },
+    {
+        "name": "Gosford Golf Club",
+        "url": "gosford.miclub.com.au",
+        "leaderboardId": "gosford"
+    },
+    {
+        "name": "Gosnells Golf Club",
+        "url": "gosnells.miclub.com.au",
+        "leaderboardId": "gosnells"
+    },
+    {
+        "name": "Gove Country Golf Club",
+        "url": "gove.miclub.com.au",
+        "leaderboardId": "gove"
+    },
+    {
+        "name": "Grange Golf Club",
+        "url": "grange.miclub.com.au",
+        "leaderboardId": "grange"
+    },
+    {
+        "name": "Green Acres Golf Club",
+        "url": "greenacres.miclub.com.au",
+        "leaderboardId": "greenacres"
+    },
+    {
+        "name": "Growling Frog Golf Club",
+        "url": "growlingfroggc.miclub.com.au",
+        "leaderboardId": "growlingfroggc"
+    },
+    {
+        "name": "GSM Golf Club",
+        "url": "gsmgolf.miclub.com.au",
+        "leaderboardId": "gsmgolf"
+    },
+    {
+        "name": "Gungahlin Lakes Golf Club",
+        "url": "gungahlin.miclub.com.au",
+        "leaderboardId": "gungahlin"
+    },
+    {
+        "name": "Gympie Golf Course",
+        "url": "gympiegc.miclub.com.au",
+        "leaderboardId": "gympiegc"
+    },
+    {
+        "name": "Harrington Waters Golf Club",
+        "url": "harringtonwaters.miclub.com.au",
+        "leaderboardId": "harringtonwaters"
+    },
+    {
+        "name": "Hartfield Country Club",
+        "url": "hartfield.miclub.com.au",
+        "leaderboardId": "hartfield"
+    },
+    {
+        "name": "Harvey Golf Club",
+        "url": "harvey.miclub.com.au",
+        "leaderboardId": "harvey"
+    },
+    {
+        "name": "Hawks Nest Golf Club",
+        "url": "hawksnest.miclub.com.au",
+        "leaderboardId": "hawksnest"
+    },
+    {
+        "name": "Heritage Golf Club",
+        "url": "heritage.miclub.com.au",
+        "leaderboardId": "heritage"
+    },
+    {
+        "name": "Highlands Golf Club",
+        "url": "highlands.miclub.com.au",
+        "leaderboardId": "highlands"
+    },
+    {
+        "name": "Hill Top Golf & Country Club",
+        "url": "hilltop.miclub.com.au",
+        "leaderboardId": "hilltop"
+    },
+    {
+        "name": "Home Hill Golf Club",
+        "url": "homehill.miclub.com.au",
+        "leaderboardId": "homehill"
+    },
+    {
+        "name": "Horizons Golf Resort",
+        "url": "horizons.miclub.com.au",
+        "leaderboardId": "horizons"
+    },
+    {
+        "name": "Maroochy River Golf Club",
+        "url": "maroochyriver.miclub.com.au",
+        "leaderboardId": "maroochyriver"
+    },
+    {
+        "name": "Howlong Golf Club",
+        "url": "howlong.miclub.com.au",
+        "leaderboardId": "howlong"
+    },
+    {
+        "name": "Humpty Doo & Rural Area Golf Club",
+        "url": "humptydoo.miclub.com.au",
+        "leaderboardId": "humptydoo"
+    },
+    {
+        "name": "Huntingdale Golf Club",
+        "url": "huntingdale.miclub.com.au",
+        "leaderboardId": "huntingdale"
+    },
+    {
+        "name": "Indooroopilly Golf Club",
+        "url": "indooroopilly.miclub.com.au",
+        "leaderboardId": "indooroopilly"
+    },
+    {
+        "name": "Inverell Golf Club",
+        "url": "inverell.miclub.com.au",
+        "leaderboardId": "inverell"
+    },
+    {
+        "name": "Ipswich Golf Club",
+        "url": "ipswich.miclub.com.au",
+        "leaderboardId": "ipswich"
+    },
+    {
+        "name": "Irish Perth Golf Society",
+        "url": "irishperth.miclub.com.au",
+        "leaderboardId": "irishperth"
+    },
+    {
+        "name": "Ivanhoe Ladies Golf Club",
+        "url": "ivanhoeladies.miclub.com.au",
+        "leaderboardId": "ivanhoeladies"
+    },
+    {
+        "name": "Joondalup CC",
+        "url": "joondalup.miclub.com.au",
+        "leaderboardId": "joondalup"
+    },
+    {
+        "name": "Kalbarri Golf Club",
+        "url": "kalbarri.miclub.com.au",
+        "leaderboardId": "kalbarri"
+    },
+    {
+        "name": "Kangaroo Valley Country Club",
+        "url": "kangaroovalley.miclub.com.au",
+        "leaderboardId": "kangaroovalley"
+    },
+    {
+        "name": "Kapunda Golf Club",
+        "url": "kapunda.miclub.com.au",
+        "leaderboardId": "kapunda"
+    },
+    {
+        "name": "Kareela Golf Club",
+        "url": "kareela.miclub.com.au",
+        "leaderboardId": "kareela"
+    },
+    {
+        "name": "Karratha Country Club",
+        "url": "karratha.miclub.com.au",
+        "leaderboardId": "karratha"
+    },
+    {
+        "name": "Katanning Country Club",
+        "url": "katanning.miclub.com.au",
+        "leaderboardId": "katanning"
+    },
+    {
+        "name": "Katherine Golf Club",
+        "url": "katherine.miclub.com.au",
+        "leaderboardId": "katherine"
+    },
+    {
+        "name": "Kempsey Golf Club",
+        "url": "kempsey.miclub.com.au",
+        "leaderboardId": "kempsey"
+    },
+    {
+        "name": "The Links Kennedy Bay",
+        "url": "kennedybay.miclub.com.au",
+        "leaderboardId": "kennedybay"
+    },
+    {
+        "name": "Keperra Country Golf Club",
+        "url": "keperra.miclub.com.au",
+        "leaderboardId": "keperra"
+    },
+    {
+        "name": "Keysborough Golf Club",
+        "url": "keysborough.miclub.com.au",
+        "leaderboardId": "keysborough"
+    },
+    {
+        "name": "Kilcoy Golf Club",
+        "url": "kilcoy.miclub.com.au",
+        "leaderboardId": "kilcoy"
+    },
+    {
+        "name": "Killara Golf Club",
+        "url": "killara.miclub.com.au",
+        "leaderboardId": "killara"
+    },
+    {
+        "name": "Kimba Golf Club",
+        "url": "kimba.miclub.com.au",
+        "leaderboardId": "kimba"
+    },
+    {
+        "name": "King Island Golf Club",
+        "url": "kingisland.miclub.com.au",
+        "leaderboardId": "kingisland"
+    },
+    {
+        "name": "Kingston Heath Golf Club",
+        "url": "kingston.miclub.com.au",
+        "leaderboardId": "kingston"
+    },
+    {
+        "name": "Kojonup Golf Club",
+        "url": "kojonup.miclub.com.au",
+        "leaderboardId": "kojonup"
+    },
+    {
+        "name": "Kooindah Waters Golf Club",
+        "url": "kooindah.miclub.com.au",
+        "leaderboardId": "kooindah"
+    },
+    {
+        "name": "Kooralbyn Valley Golf Club",
+        "url": "kooralbynvalley.miclub.com.au",
+        "leaderboardId": "kooralbynvalley"
+    },
+    {
+        "name": "Kooringal Golf Club",
+        "url": "kooringal.miclub.com.au",
+        "leaderboardId": "kooringal"
+    },
+    {
+        "name": "Kooyonga Golf Club",
+        "url": "kooyonga.miclub.com.au",
+        "leaderboardId": "kooyonga"
+    },
+    {
+        "name": "Kwinana Golf Club",
+        "url": "kwinana.miclub.com.au",
+        "leaderboardId": "kwinana"
+    },
+    {
+        "name": "Kyogle Golf Club",
+        "url": "kyogle.miclub.com.au",
+        "leaderboardId": "kyogle"
+    },
+    {
+        "name": "Lake Kununurra Golf Club",
+        "url": "lakekununurra.miclub.com.au",
+        "leaderboardId": "lakekununurra"
+    },
+    {
+        "name": "Lakeside Golf Club - Melb",
+        "url": "lakeside.miclub.com.au",
+        "leaderboardId": "lakeside"
+    },
+    {
+        "name": "Lane Cove Golf Club",
+        "url": "lanecove.miclub.com.au",
+        "leaderboardId": "lanecove"
+    },
+    {
+        "name": "Lara Golf Club",
+        "url": "lara.miclub.com.au",
+        "leaderboardId": "lara"
+    },
+    {
+        "name": "Latrobe Golf Club",
+        "url": "latrobe.miclub.com.au",
+        "leaderboardId": "latrobe"
+    },
+    {
+        "name": "Launceston Golf Club",
+        "url": "launceston.miclub.com.au",
+        "leaderboardId": "launceston"
+    },
+    {
+        "name": "Lavarack Golf Club",
+        "url": "lavarack.miclub.com.au",
+        "leaderboardId": "lavarack"
+    },
+    {
+        "name": "Leongatha Golf Club",
+        "url": "leongatha.miclub.com.au",
+        "leaderboardId": "leongatha"
+    },
+    {
+        "name": "Links Hope Island",
+        "url": "linkshopeisland.miclub.com.au",
+        "leaderboardId": "linkshopeisland"
+    },
+    {
+        "name": "Links Lady Bay Golf Club",
+        "url": "linksladybay.miclub.com.au",
+        "leaderboardId": "linksladybay"
+    },
+    {
+        "name": "Liquor Industry Golf Club SA",
+        "url": "liquorgcsa.miclub.com.au",
+        "leaderboardId": "liquorgcsa"
+    },
+    {
+        "name": "Lithgow Golf Club",
+        "url": "lithgow.miclub.com.au",
+        "leaderboardId": "lithgow"
+    },
+    {
+        "name": "Liverpool Golf Club",
+        "url": "liverpool.miclub.com.au",
+        "leaderboardId": "liverpool"
+    },
+    {
+        "name": "Meadowbrook Golf Club",
+        "url": "meadowbrook.miclub.com.au",
+        "leaderboardId": "meadowbrook"
+    },
+    {
+        "name": "Lonsdale Links",
+        "url": "lonsdale.miclub.com.au",
+        "leaderboardId": "lonsdale"
+    },
+    {
+        "name": "Lynwood Country Club",
+        "url": "lynwoodcc.miclub.com.au",
+        "leaderboardId": "lynwoodcc"
+    },
+    {
+        "name": "Mackay Golf Club",
+        "url": "mackay.miclub.com.au",
+        "leaderboardId": "mackay"
+    },
+    {
+        "name": "Macksville Golf Club",
+        "url": "macksville.miclub.com.au",
+        "leaderboardId": "macksville"
+    },
+    {
+        "name": "Magenta Shores G & C Club",
+        "url": "magentashores.miclub.com.au",
+        "leaderboardId": "magentashores"
+    },
+    {
+        "name": "Maleny Golf Club",
+        "url": "malenygc.miclub.com.au",
+        "leaderboardId": "malenygc"
+    },
+    {
+        "name": "Malverndale Golf Club",
+        "url": "malverndale.miclub.com.au",
+        "leaderboardId": "malverndale"
+    },
+    {
+        "name": "Malvern Park Golf Club",
+        "url": "malvernparkgc.miclub.com.au",
+        "leaderboardId": "malvernparkgc"
+    },
+    {
+        "name": "Club Mandalay",
+        "url": "mandalay.miclub.com.au",
+        "leaderboardId": "mandalay"
+    },
+    {
+        "name": "Mandurah Country Club",
+        "url": "mandurahcc.miclub.com.au",
+        "leaderboardId": "mandurahcc"
+    },
+    {
+        "name": "Mangrove Mountain Memorial Club",
+        "url": "mangrove.miclub.com.au",
+        "leaderboardId": "mangrove"
+    },
+    {
+        "name": "Manjimup Country Club",
+        "url": "manjimup.miclub.com.au",
+        "leaderboardId": "manjimup"
+    },
+    {
+        "name": "Manly Golf Club",
+        "url": "manly.miclub.com.au",
+        "leaderboardId": "manly"
+    },
+    {
+        "name": "Marangaroo Golf Course",
+        "url": "marangaroo.miclub.com.au",
+        "leaderboardId": "marangaroo"
+    },
+    {
+        "name": "Margaret River Golf Club",
+        "url": "margaretriver.miclub.com.au",
+        "leaderboardId": "margaretriver"
+    },
+    {
+        "name": "Marion Park Golf Club",
+        "url": "marionpark.miclub.com.au",
+        "leaderboardId": "marionpark"
+    },
+    {
+        "name": "McLeod Golf Club",
+        "url": "mcleod.miclub.com.au",
+        "leaderboardId": "mcleod"
+    },
+    {
+        "name": "Medway Golf Club",
+        "url": "medway.miclub.com.au",
+        "leaderboardId": "medway"
+    },
+    {
+        "name": "Melville Glades Golf Club",
+        "url": "melville.miclub.com.au",
+        "leaderboardId": "melville"
+    },
+    {
+        "name": "Lin Golf Club",
+        "url": "lintest03.miclub.com.au",
+        "leaderboardId": "lintest03"
+    },
+    {
+        "name": "Mentone Golf Club",
+        "url": "mentone.miclub.com.au",
+        "leaderboardId": "mentone"
+    },
+    {
+        "name": "Merbein Golf Club",
+        "url": "merbein.miclub.com.au",
+        "leaderboardId": "merbein"
+    },
+    {
+        "name": "Merredin Golf Club",
+        "url": "merredin.miclub.com.au",
+        "leaderboardId": "merredin"
+    },
+    {
+        "name": "Middlemount Golf Club",
+        "url": "middlemount.miclub.com.au",
+        "leaderboardId": "middlemount"
+    },
+    {
+        "name": "Midlands Golf Club",
+        "url": "midlands.miclub.com.au",
+        "leaderboardId": "midlands"
+    },
+    {
+        "name": "Millicent Golf Club",
+        "url": "millicent.miclub.com.au",
+        "leaderboardId": "millicent"
+    },
+    {
+        "name": "Mollymook Golf Club",
+        "url": "mollymook.miclub.com.au",
+        "leaderboardId": "mollymook"
+    },
+    {
+        "name": "Monash Country Club",
+        "url": "monash.miclub.com.au",
+        "leaderboardId": "monash"
+    },
+    {
+        "name": "Mona Vale Golf Club",
+        "url": "monavale.miclub.com.au",
+        "leaderboardId": "monavale"
+    },
+    {
+        "name": "Moonah Links",
+        "url": "moonah.miclub.com.au",
+        "leaderboardId": "moonah"
+    },
+    {
+        "name": "Moore Park Golf",
+        "url": "moorepark.miclub.com.au",
+        "leaderboardId": "moorepark"
+    },
+    {
+        "name": "Morack Ladies",
+        "url": "morackladies.miclub.com.au",
+        "leaderboardId": "morackladies"
+    },
+    {
+        "name": "Morack Golf Course",
+        "url": "morackseniors.miclub.com.au",
+        "leaderboardId": "morackseniors"
+    },
+    {
+        "name": "Moranbah Golf Club",
+        "url": "moranbahgc.miclub.com.au",
+        "leaderboardId": "moranbahgc"
+    },
+    {
+        "name": "Morisset Golf Club",
+        "url": "morisset.miclub.com.au",
+        "leaderboardId": "morisset"
+    },
+    {
+        "name": "Mornington Peninsula Golf Tourism",
+        "url": "mornington.miclub.com.au",
+        "leaderboardId": "mornington"
+    },
+    {
+        "name": "Mornington Golf Club",
+        "url": "morningtongc.miclub.com.au",
+        "leaderboardId": "morningtongc"
+    },
+    {
+        "name": "Moruya Golf Club",
+        "url": "moruya.miclub.com.au",
+        "leaderboardId": "moruya"
+    },
+    {
+        "name": "Mosman Park Golf Club",
+        "url": "mosman.miclub.com.au",
+        "leaderboardId": "mosman"
+    },
+    {
+        "name": "Mossman Golf Club",
+        "url": "mossman.miclub.com.au",
+        "leaderboardId": "mossman"
+    },
+    {
+        "name": "Moss Vale Golf Club",
+        "url": "mossvale.miclub.com.au",
+        "leaderboardId": "mossvale"
+    },
+    {
+        "name": "Master of the Amateurs",
+        "url": "mota.miclub.com.au",
+        "leaderboardId": "mota"
+    },
+    {
+        "name": "Mount Morgan Golf Club",
+        "url": "mountmorgan.miclub.com.au",
+        "leaderboardId": "mountmorgan"
+    },
+    {
+        "name": "Mt Compass Golf Club",
+        "url": "mtcompass.miclub.com.au",
+        "leaderboardId": "mtcompass"
+    },
+    {
+        "name": "Mount Coolum Golf Club",
+        "url": "mtcoolum.miclub.com.au",
+        "leaderboardId": "mtcoolum"
+    },
+    {
+        "name": "Mt Derrimut Golf Club",
+        "url": "mtderrimut.miclub.com.au",
+        "leaderboardId": "mtderrimut"
+    },
+    {
+        "name": "Mount Macedon Golf Club",
+        "url": "mtmacedon.miclub.com.au",
+        "leaderboardId": "mtmacedon"
+    },
+    {
+        "name": "Mount Osmond Golf Club",
+        "url": "mtosmond.miclub.com.au",
+        "leaderboardId": "mtosmond"
+    },
+    {
+        "name": "Mt Warren Park Golf Course",
+        "url": "mtwarrenpark.miclub.com.au",
+        "leaderboardId": "mtwarrenpark"
+    },
+    {
+        "name": "Mudgee Golf Club",
+        "url": "mudgee.miclub.com.au",
+        "leaderboardId": "mudgee"
+    },
+    {
+        "name": "Muirfield Golf Club",
+        "url": "muirfield.miclub.com.au",
+        "leaderboardId": "muirfield"
+    },
+    {
+        "name": "Mungindi Golf Club",
+        "url": "mungindi.miclub.com.au",
+        "leaderboardId": "mungindi"
+    },
+    {
+        "name": "Murrumbidgee Country Club",
+        "url": "murrumbidgee.miclub.com.au",
+        "leaderboardId": "murrumbidgee"
+    },
+    {
+        "name": "Mystic Sands Golf Resort",
+        "url": "mysticsands.miclub.com.au",
+        "leaderboardId": "mysticsands"
+    },
+    {
+        "name": "Nanango Golf Club",
+        "url": "nanango.miclub.com.au",
+        "leaderboardId": "nanango"
+    },
+    {
+        "name": "Naracoorte Golf Club",
+        "url": "naracoorte.miclub.com.au",
+        "leaderboardId": "naracoorte"
+    },
+    {
+        "name": "Narrogin Golf Club",
+        "url": "narrogin.miclub.com.au",
+        "leaderboardId": "narrogin"
+    },
+    {
+        "name": "Neangar Park Golf Club",
+        "url": "neangarpark.miclub.com.au",
+        "leaderboardId": "neangarpark"
+    },
+    {
+        "name": "Nedlands Golf Club",
+        "url": "nedlands.miclub.com.au",
+        "leaderboardId": "nedlands"
+    },
+    {
+        "name": "Brighton Lakes Golf Club",
+        "url": "brightonlakes.miclub.com.au",
+        "leaderboardId": "brightonlakes"
+    },
+    {
+        "name": "Newcastle Golf Club",
+        "url": "newcastle.miclub.com.au",
+        "leaderboardId": "newcastle"
+    },
+    {
+        "name": "Northam Country Golf Club",
+        "url": "northam.miclub.com.au",
+        "leaderboardId": "northam"
+    },
+    {
+        "name": "Northcote Golf Club",
+        "url": "northcote.miclub.com.au",
+        "leaderboardId": "northcote"
+    },
+    {
+        "name": "Northern Golf Club",
+        "url": "northern.miclub.com.au",
+        "leaderboardId": "northern"
+    },
+    {
+        "name": "North Ryde Golf Club",
+        "url": "northryde.miclub.com.au",
+        "leaderboardId": "northryde"
+    },
+    {
+        "name": "Senior Golfers' Society of NSW",
+        "url": "nswseniors.miclub.com.au",
+        "leaderboardId": "nswseniors"
+    },
+    {
+        "name": "Nudgee Golf Club",
+        "url": "nudgee.miclub.com.au",
+        "leaderboardId": "nudgee"
+    },
+    {
+        "name": "Newcastle Vets Golf Association",
+        "url": "nvga.miclub.com.au",
+        "leaderboardId": "nvga"
+    },
+    {
+        "name": "Oatlands Golf Club",
+        "url": "oatlands.miclub.com.au",
+        "leaderboardId": "oatlands"
+    },
+    {
+        "name": "Ocean Dunes",
+        "url": "oceandunes.miclub.com.au",
+        "leaderboardId": "oceandunes"
+    },
+    {
+        "name": "Ocean Grove Golf Club",
+        "url": "oceangrovegc.miclub.com.au",
+        "leaderboardId": "oceangrovegc"
+    },
+    {
+        "name": "One Golf",
+        "url": "onegolf.miclub.com.au",
+        "leaderboardId": "onegolf"
+    },
+    {
+        "name": "Orford Golf Club",
+        "url": "orford.miclub.com.au",
+        "leaderboardId": "orford"
+    },
+    {
+        "name": "Oxley Golf Club",
+        "url": "oxley.miclub.com.au",
+        "leaderboardId": "oxley"
+    },
+    {
+        "name": "Pacific Dunes",
+        "url": "pacificdunes.miclub.com.au",
+        "leaderboardId": "pacificdunes"
+    },
+    {
+        "name": "Pacific Golf Club",
+        "url": "pacificgolf.miclub.com.au",
+        "leaderboardId": "pacificgolf"
+    },
+    {
+        "name": "Palmerston Golf Club",
+        "url": "palmerston.miclub.com.au",
+        "leaderboardId": "palmerston"
+    },
+    {
+        "name": "Palm Meadows Golf Course",
+        "url": "palmmeadows.miclub.com.au",
+        "leaderboardId": "palmmeadows"
+    },
+    {
+        "name": "Parkwood Golf Club",
+        "url": "parkwood.miclub.com.au",
+        "leaderboardId": "parkwood"
+    },
+    {
+        "name": "Patterson River Golf Club",
+        "url": "pattersonriver.miclub.com.au",
+        "leaderboardId": "pattersonriver"
+    },
+    {
+        "name": "Penguin Golf Club",
+        "url": "penguin.miclub.com.au",
+        "leaderboardId": "penguin"
+    },
+    {
+        "name": "Peregian Golf Club",
+        "url": "peregian.miclub.com.au",
+        "leaderboardId": "peregian"
+    },
+    {
+        "name": "PGAIGI",
+        "url": "pgaigi.miclub.com.au",
+        "leaderboardId": "pgaigi"
+    },
+    {
+        "name": "Public Golf Facilities Australia",
+        "url": "www.publicgolffacilities.com.au",
+        "leaderboardId": "pgfa"
+    },
+    {
+        "name": "Pennant Hills Golf Club",
+        "url": "phills.miclub.com.au",
+        "leaderboardId": "phills"
+    },
+    {
+        "name": "Pine Rivers Golf Club",
+        "url": "pinerivers.miclub.com.au",
+        "leaderboardId": "pinerivers"
+    },
+    {
+        "name": "Pinjarra Golf Club",
+        "url": "pinjarra.miclub.com.au",
+        "leaderboardId": "pinjarra"
+    },
+    {
+        "name": "Pink Lake Country Club",
+        "url": "pinklake.miclub.com.au",
+        "leaderboardId": "pinklake"
+    },
+    {
+        "name": "Pittsworth Golf Club",
+        "url": "pittsworth.miclub.com.au",
+        "leaderboardId": "pittsworth"
+    },
+    {
+        "name": "Playford Lakes Golf Club",
+        "url": "playfordlakes.miclub.com.au",
+        "leaderboardId": "playfordlakes"
+    },
+    {
+        "name": "Portarlington Golf Club",
+        "url": "portarlington.miclub.com.au",
+        "leaderboardId": "portarlington"
+    },
+    {
+        "name": "Port Kembla Golf Club",
+        "url": "portkembla.miclub.com.au",
+        "leaderboardId": "portkembla"
+    },
+    {
+        "name": "Port Macquarie Golf Club",
+        "url": "portmacquarie.miclub.com.au",
+        "leaderboardId": "portmacquarie"
+    },
+    {
+        "name": "Portsea Golf Club",
+        "url": "portsea.miclub.com.au",
+        "leaderboardId": "portsea"
+    },
+    {
+        "name": "Port Vila Golf & Country Club",
+        "url": "portvila.miclub.com.au",
+        "leaderboardId": "portvila"
+    },
+    {
+        "name": "Proserpine Golf Club",
+        "url": "proserpine.miclub.com.au",
+        "leaderboardId": "proserpine"
+    },
+    {
+        "name": "Pymble Golf Club",
+        "url": "pymble.miclub.com.au",
+        "leaderboardId": "pymble"
+    },
+    {
+        "name": "Quairading Golf Club",
+        "url": "quairading.miclub.com.au",
+        "leaderboardId": "quairading"
+    },
+    {
+        "name": "Queens Park Golf Club",
+        "url": "queenspark.miclub.com.au",
+        "leaderboardId": "queenspark"
+    },
+    {
+        "name": "Quirindi RSL Golf Club",
+        "url": "quirindi.miclub.com.au",
+        "leaderboardId": "quirindi"
+    },
+    {
+        "name": "RAAF Darwin Golf Club",
+        "url": "raafdarwin.miclub.com.au",
+        "leaderboardId": "raafdarwin"
+    },
+    {
+        "name": "Ranfurlie Golf Club",
+        "url": "ranfurlie.miclub.com.au",
+        "leaderboardId": "ranfurlie"
+    },
+    {
+        "name": "Redcliffe Golf Club",
+        "url": "redcliffe.miclub.com.au",
+        "leaderboardId": "redcliffe"
+    },
+    {
+        "name": "Red Cliffs Golf Club",
+        "url": "redcliffs.miclub.com.au",
+        "leaderboardId": "redcliffs"
+    },
+    {
+        "name": "Test02",
+        "url": "test02.miclub.com.au",
+        "leaderboardId": "test02"
+    },
+    {
+        "name": "Test03",
+        "url": "test03.miclub.com.au",
+        "leaderboardId": "test03"
+    },
+    {
+        "name": "Test04",
+        "url": "test04.miclub.com.au",
+        "leaderboardId": "test04"
+    },
+    {
+        "name": "Test05",
+        "url": "test05.miclub.com.au",
+        "leaderboardId": "test05"
+    },
+    {
+        "name": "Test06",
+        "url": "test06.miclub.com.au",
+        "leaderboardId": "test06"
+    },
+    {
+        "name": "Riverside Golf Club Essendon",
+        "url": "rgce.miclub.com.au",
+        "leaderboardId": "rgce"
+    },
+    {
+        "name": "Richmond Golf Club",
+        "url": "richmond.miclub.com.au",
+        "leaderboardId": "richmond"
+    },
+    {
+        "name": "Rich River Golf Club",
+        "url": "richriver.miclub.com.au",
+        "leaderboardId": "richriver"
+    },
+    {
+        "name": "Ringwood Golf Club",
+        "url": "ringwood.miclub.com.au",
+        "leaderboardId": "ringwood"
+    },
+    {
+        "name": "Riverlakes Golf Course",
+        "url": "riverlakes.miclub.com.au",
+        "leaderboardId": "riverlakes"
+    },
+    {
+        "name": "Riverside Golf Club Mildura",
+        "url": "riverside.miclub.com.au",
+        "leaderboardId": "riverside"
+    },
+    {
+        "name": "Riverside Oaks Golf Resort",
+        "url": "riversideoaks.miclub.com.au",
+        "leaderboardId": "riversideoaks"
+    },
+    {
+        "name": "Riverside Golf Club Tasmania",
+        "url": "riversidetas.miclub.com.au",
+        "leaderboardId": "riversidetas"
+    },
+    {
+        "name": "Riverview Golf Club",
+        "url": "riverview.miclub.com.au",
+        "leaderboardId": "riverview"
+    },
+    {
+        "name": "Riverview Country Club",
+        "url": "riverviewwa.miclub.com.au",
+        "leaderboardId": "riverviewwa"
+    },
+    {
+        "name": "Royal Military College Golf Club",
+        "url": "rmcgc.miclub.com.au",
+        "leaderboardId": "rmcgc"
+    },
+    {
+        "name": "Robe Golf Club",
+        "url": "robegolfclub.miclub.com.au",
+        "leaderboardId": "robegolfclub"
+    },
+    {
+        "name": "Rockhampton Golf Club",
+        "url": "rockhamptongc.miclub.com.au",
+        "leaderboardId": "rockhamptongc"
+    },
+    {
+        "name": "Rockingham Golf Club",
+        "url": "rockingham.miclub.com.au",
+        "leaderboardId": "rockingham"
+    },
+    {
+        "name": "Rosanna Golf Club",
+        "url": "rosanna.miclub.com.au",
+        "leaderboardId": "rosanna"
+    },
+    {
+        "name": "Rosebud Country Club",
+        "url": "rosebud.miclub.com.au",
+        "leaderboardId": "rosebud"
+    },
+    {
+        "name": "Bay Views Golf Course",
+        "url": "bayviews.miclub.com.au",
+        "leaderboardId": "bayviews"
+    },
+    {
+        "name": "Roseville Golf Club",
+        "url": "roseville.miclub.com.au",
+        "leaderboardId": "roseville"
+    },
+    {
+        "name": "Rossdale Golf Club",
+        "url": "rossdale.miclub.com.au",
+        "leaderboardId": "rossdale"
+    },
+    {
+        "name": "Rowes Bay Golf Club",
+        "url": "rowesbay.miclub.com.au",
+        "leaderboardId": "rowesbay"
+    },
+    {
+        "name": "Royal Adelaide Golf Club",
+        "url": "royaladelaide.miclub.com.au",
+        "leaderboardId": "royaladelaide"
+    },
+    {
+        "name": "Royal Auckland and Grange Golf Club",
+        "url": "www.raggc.com",
+        "leaderboardId": "royalag"
+    },
+    {
+        "name": "Royal Canberra Golf Club",
+        "url": "royalcanberra.miclub.com.au",
+        "leaderboardId": "royalcanberra"
+    },
+    {
+        "name": "Royal Fremantle Golf Club",
+        "url": "royalfremantle.miclub.com.au",
+        "leaderboardId": "royalfremantle"
+    },
+    {
+        "name": "Royal Hobart Golf Club",
+        "url": "royalhobart.miclub.com.au",
+        "leaderboardId": "royalhobart"
+    },
+    {
+        "name": "Royal Park Golf Club",
+        "url": "royalpark.miclub.com.au",
+        "leaderboardId": "royalpark"
+    },
+    {
+        "name": "Royal Park Ladies",
+        "url": "royalparkladies.miclub.com.au",
+        "leaderboardId": "royalparkladies"
+    },
+    {
+        "name": "Royal Pines Resort Golf Club",
+        "url": "royalpines.miclub.com.au",
+        "leaderboardId": "royalpines"
+    },
+    {
+        "name": "Royal Queensland Golf Club",
+        "url": "royalqueensland.miclub.com.au",
+        "leaderboardId": "royalqueensland"
+    },
+    {
+        "name": "The Royal Sydney Golf Club",
+        "url": "royalsydney.miclub.com.au",
+        "leaderboardId": "royalsydney"
+    },
+    {
+        "name": "Riverview Ladies Golf Club",
+        "url": "rvlgc.miclub.com.au",
+        "leaderboardId": "rvlgc"
+    },
+    {
+        "name": "Ryde-Parramatta Golf Club",
+        "url": "rydeparramatta.miclub.com.au",
+        "leaderboardId": "rydeparramatta"
+    },
+    {
+        "name": "The Valley Golf Club",
+        "url": "thevalley.miclub.com.au",
+        "leaderboardId": "thevalley"
+    },
+    {
+        "name": "Sanctuary Lakes Golf Club",
+        "url": "sanctuarylakes.miclub.com.au",
+        "leaderboardId": "sanctuarylakes"
+    },
+    {
+        "name": "Sanctuary Golf Resort",
+        "url": "sanctuaryresort.miclub.com.au",
+        "leaderboardId": "sanctuaryresort"
+    },
+    {
+        "name": "Sandhurst Golf Club",
+        "url": "sandhurst.miclub.com.au",
+        "leaderboardId": "sandhurst"
+    },
+    {
+        "name": "Sandringham GCA",
+        "url": "sandringham.miclub.com.au",
+        "leaderboardId": "sandringham"
+    },
+    {
+        "name": "The Sands",
+        "url": "sands.miclub.com.au",
+        "leaderboardId": "sands"
+    },
+    {
+        "name": "Sarina Golf Club",
+        "url": "sarina.miclub.com.au",
+        "leaderboardId": "sarina"
+    },
+    {
+        "name": "SCCG",
+        "url": "sccg.miclub.com.au",
+        "leaderboardId": "sccg"
+    },
+    {
+        "name": "Scotchman's Creek",
+        "url": "scotchmanscreek.miclub.com.au",
+        "leaderboardId": "scotchmanscreek"
+    },
+    {
+        "name": "Secret Harbour Golf Links",
+        "url": "secretharbour.miclub.com.au",
+        "leaderboardId": "secretharbour"
+    },
+    {
+        "name": "Seletar Country Club",
+        "url": "seletar.miclub.com.au",
+        "leaderboardId": "seletar"
+    },
+    {
+        "name": "Senior Golfers Society QLD",
+        "url": "seniorsqld.miclub.com.au",
+        "leaderboardId": "seniorsqld"
+    },
+    {
+        "name": "Serpentine & Districts Golf Club",
+        "url": "serpentine.miclub.com.au",
+        "leaderboardId": "serpentine"
+    },
+    {
+        "name": "Settlers Run Golf & Country Club",
+        "url": "settlersrun.miclub.com.au",
+        "leaderboardId": "settlersrun"
+    },
+    {
+        "name": "Sheffield Golf Club",
+        "url": "sheffield.miclub.com.au",
+        "leaderboardId": "sheffield"
+    },
+    {
+        "name": "Shepparton Golf Club",
+        "url": "shepparton.miclub.com.au",
+        "leaderboardId": "shepparton"
+    },
+    {
+        "name": "Hookers and Slicers Golf Club",
+        "url": "slicers.miclub.com.au",
+        "leaderboardId": "slicers"
+    },
+    {
+        "name": "Sorrento Golf Club",
+        "url": "sorrento.miclub.com.au",
+        "leaderboardId": "sorrento"
+    },
+    {
+        "name": "Southern Golf Club",
+        "url": "southern.miclub.com.au",
+        "leaderboardId": "southern"
+    },
+    {
+        "name": "South Lakes Golf Club",
+        "url": "southlakes.miclub.com.au",
+        "leaderboardId": "southlakes"
+    },
+    {
+        "name": "Southport Golf Club",
+        "url": "southport.miclub.com.au",
+        "leaderboardId": "southport"
+    },
+    {
+        "name": "Spalding Park Golf Club",
+        "url": "spaldingpark.miclub.com.au",
+        "leaderboardId": "spaldingpark"
+    },
+    {
+        "name": "Spring Valley Golf Club",
+        "url": "springvalley.miclub.com.au",
+        "leaderboardId": "springvalley"
+    },
+    {
+        "name": "St Andrews Beach",
+        "url": "standrews.miclub.com.au",
+        "leaderboardId": "standrews"
+    },
+    {
+        "name": "St George Golf Club",
+        "url": "stgeorge.miclub.com.au",
+        "leaderboardId": "stgeorge"
+    },
+    {
+        "name": "St Michaels Golf Club",
+        "url": "stmichaels.miclub.com.au",
+        "leaderboardId": "stmichaels"
+    },
+    {
+        "name": "Stonecutters Ridge",
+        "url": "stonecutters.miclub.com.au",
+        "leaderboardId": "stonecutters"
+    },
+    {
+        "name": "Strathfield Golf Club",
+        "url": "strathfield.miclub.com.au",
+        "leaderboardId": "strathfield"
+    },
+    {
+        "name": "Sun City Country Club",
+        "url": "suncity.miclub.com.au",
+        "leaderboardId": "suncity"
+    },
+    {
+        "name": "Surfers Paradise Golf Club",
+        "url": "surfersparadise.miclub.com.au",
+        "leaderboardId": "surfersparadise"
+    },
+    {
+        "name": "Sydney Veteran Golfers' Associat",
+        "url": "svga.miclub.com.au",
+        "leaderboardId": "svga"
+    },
+    {
+        "name": "Tallwoods Country Club",
+        "url": "tallwoods.miclub.com.au",
+        "leaderboardId": "tallwoods"
+    },
+    {
+        "name": "Tally Valley Golf Club",
+        "url": "tallyvalleygc.miclub.com.au",
+        "leaderboardId": "tallyvalleygc"
+    },
+    {
+        "name": "Tamborine Mountain Golf Club",
+        "url": "tamborine.miclub.com.au",
+        "leaderboardId": "tamborine"
+    },
+    {
+        "name": "Tasmania Golf Club",
+        "url": "tasmania.miclub.com.au",
+        "leaderboardId": "tasmania"
+    },
+    {
+        "name": "Tatas Club",
+        "url": "tatasgc.miclub.com.au",
+        "leaderboardId": "tatasgc"
+    },
+    {
+        "name": "Tea Tree Gully Golf Club",
+        "url": "teatree.miclub.com.au",
+        "leaderboardId": "teatree"
+    },
+    {
+        "name": "Terrey Hills Golf & Country Club",
+        "url": "terreyhills.miclub.com.au",
+        "leaderboardId": "terreyhills"
+    },
+    {
+        "name": "Noosa Golf Club",
+        "url": "noosa.miclub.com.au",
+        "leaderboardId": "noosa"
+    },
+    {
+        "name": "Thaxted Park Golf Club",
+        "url": "thaxtedpark.miclub.com.au",
+        "leaderboardId": "thaxtedpark"
+    },
+    {
+        "name": "The Cut",
+        "url": "thecut.miclub.com.au",
+        "leaderboardId": "thecut"
+    },
+    {
+        "name": "The Grange Golf Club",
+        "url": "thegrange.miclub.com.au",
+        "leaderboardId": "thegrange"
+    },
+    {
+        "name": "The Lakes Golf Club",
+        "url": "thelakes.miclub.com.au",
+        "leaderboardId": "thelakes"
+    },
+    {
+        "name": "The Ridge Golf Club",
+        "url": "theridge.miclub.com.au",
+        "leaderboardId": "theridge"
+    },
+    {
+        "name": "Thurgoona Golf Club",
+        "url": "thurgoona.miclub.com.au",
+        "leaderboardId": "thurgoona"
+    },
+    {
+        "name": "Tieri Golf Club",
+        "url": "tieri.miclub.com.au",
+        "leaderboardId": "tieri"
+    },
+    {
+        "name": "Tirhatuan Golf Club",
+        "url": "tirhatuan.miclub.com.au",
+        "leaderboardId": "tirhatuan"
+    },
+    {
+        "name": "Tanah Merah Country Club",
+        "url": "tmcc.miclub.com.au",
+        "leaderboardId": "tmcc"
+    },
+    {
+        "name": "Torquay Golf Club",
+        "url": "torquay.miclub.com.au",
+        "leaderboardId": "torquay"
+    },
+    {
+        "name": "Townsville Golf Club Inc",
+        "url": "townsville.miclub.com.au",
+        "leaderboardId": "townsville"
+    },
+    {
+        "name": "Trentham Golf Club",
+        "url": "trentham.miclub.com.au",
+        "leaderboardId": "trentham"
+    },
+    {
+        "name": "Twin Creeks Golf & Country Club",
+        "url": "twincreeks.miclub.com.au",
+        "leaderboardId": "twincreeks"
+    },
+    {
+        "name": "Ulverstone Golf Club",
+        "url": "ulverstonegc.miclub.com.au",
+        "leaderboardId": "ulverstonegc"
+    },
+    {
+        "name": "Uralla Golf Club",
+        "url": "urallagc.miclub.com.au",
+        "leaderboardId": "urallagc"
+    },
+    {
+        "name": "C.ex Urunga Golf Club",
+        "url": "urunga.miclub.com.au",
+        "leaderboardId": "urunga"
+    },
+    {
+        "name": "Victor Harbor Golf Club",
+        "url": "victorharbor.miclub.com.au",
+        "leaderboardId": "victorharbor"
+    },
+    {
+        "name": "The Vines Golf Club of Reynella",
+        "url": "vinesgc.miclub.com.au",
+        "leaderboardId": "vinesgc"
+    },
+    {
+        "name": "The Vintage",
+        "url": "vintage.miclub.com.au",
+        "leaderboardId": "vintage"
+    },
+    {
+        "name": "Virginia Golf Club",
+        "url": "virginia.miclub.com.au",
+        "leaderboardId": "virginia"
+    },
+    {
+        "name": "Wakehurst Golf Club",
+        "url": "wakehurst.miclub.com.au",
+        "leaderboardId": "wakehurst"
+    },
+    {
+        "name": "Wallaroo Golf Club",
+        "url": "wallaroogc.miclub.com.au",
+        "leaderboardId": "wallaroogc"
+    },
+    {
+        "name": "Walpole Country Club",
+        "url": "walpole.miclub.com.au",
+        "leaderboardId": "walpole"
+    },
+    {
+        "name": "Wantima Golf Club",
+        "url": "wantima.miclub.com.au",
+        "leaderboardId": "wantima"
+    },
+    {
+        "name": "Waroona Golf Club",
+        "url": "waroona.miclub.com.au",
+        "leaderboardId": "waroona"
+    },
+    {
+        "name": "Warragul Country Club",
+        "url": "warragul.miclub.com.au",
+        "leaderboardId": "warragul"
+    },
+    {
+        "name": "Churchill Waverley Golf and Bowls Club",
+        "url": "waverley.miclub.com.au",
+        "leaderboardId": "waverley"
+    },
+    {
+        "name": "Wellington Golf Club",
+        "url": "wellington.miclub.com.au",
+        "leaderboardId": "wellington"
+    },
+    {
+        "name": "Wellington Links",
+        "url": "wellingtonlinks.miclub.com.au",
+        "leaderboardId": "wellingtonlinks"
+    },
+    {
+        "name": "Werris Creek Golf Club",
+        "url": "werriscreek.miclub.com.au",
+        "leaderboardId": "werriscreek"
+    },
+    {
+        "name": "West Aviat Golf Club",
+        "url": "westaviat.miclub.com.au",
+        "leaderboardId": "westaviat"
+    },
+    {
+        "name": "West Lakes Golf Club",
+        "url": "westlakes.miclub.com.au",
+        "leaderboardId": "westlakes"
+    },
+    {
+        "name": "Whyalla Golf Club",
+        "url": "whyalla.miclub.com.au",
+        "leaderboardId": "whyalla"
+    },
+    {
+        "name": "Tropics Golf Club",
+        "url": "tropics.miclub.com.au",
+        "leaderboardId": "tropics"
+    },
+    {
+        "name": "Willunga Golf Course",
+        "url": "willunga.miclub.com.au",
+        "leaderboardId": "willunga"
+    },
+    {
+        "name": "Windaroo Lakes Golf Club",
+        "url": "windaroolakes.miclub.com.au",
+        "leaderboardId": "windaroolakes"
+    },
+    {
+        "name": "Windsor Golf Club",
+        "url": "windsor.miclub.com.au",
+        "leaderboardId": "windsor"
+    },
+    {
+        "name": "Wollongong Golf Club",
+        "url": "wollongong.miclub.com.au",
+        "leaderboardId": "wollongong"
+    },
+    {
+        "name": "Wongan Hills Golf Club",
+        "url": "wonganhills.miclub.com.au",
+        "leaderboardId": "wonganhills"
+    },
+    {
+        "name": "Wonthaggi Golf Club",
+        "url": "wonthaggi.miclub.com.au",
+        "leaderboardId": "wonthaggi"
+    },
+    {
+        "name": "Woodford Golf Club",
+        "url": "woodford.miclub.com.au",
+        "leaderboardId": "woodford"
+    },
+    {
+        "name": "Woodlands Golf Club",
+        "url": "woodlands.miclub.com.au",
+        "leaderboardId": "woodlands"
+    },
+    {
+        "name": "Woollahra Golf Club",
+        "url": "woollahra.miclub.com.au",
+        "leaderboardId": "woollahra"
+    },
+    {
+        "name": "Woolooware Golf Club",
+        "url": "woolooware.miclub.com.au",
+        "leaderboardId": "woolooware"
+    },
+    {
+        "name": "Wynnum Golf Club",
+        "url": "wynnum.miclub.com.au",
+        "leaderboardId": "wynnum"
+    },
+    {
+        "name": "Yarra Yarra Golf Club",
+        "url": "yarra.miclub.com.au",
+        "leaderboardId": "yarra"
+    },
+    {
+        "name": "Yarra Bend Golf ",
+        "url": "yarrabend.miclub.com.au",
+        "leaderboardId": "yarrabend"
+    },
+    {
+        "name": "Yarrambat Golf Club",
+        "url": "yarrambatpark.miclub.com.au",
+        "leaderboardId": "yarrambatpark"
+    },
+    {
+        "name": "Yarrawonga Mulwala Golf Club Resort",
+        "url": "yarrawonga.miclub.com.au",
+        "leaderboardId": "yarrawonga"
+    },
+    {
+        "name": "Yass Golf Club",
+        "url": "yass.miclub.com.au",
+        "leaderboardId": "yass"
+    },
+    {
+        "name": "Yeppoon Golf Club",
+        "url": "yeppoon.miclub.com.au",
+        "leaderboardId": "yeppoon"
+    },
+    {
+        "name": "Western Australian Golf Club",
+        "url": "wagc.miclub.com.au",
+        "leaderboardId": "wagc"
+    },
+    {
+        "name": "York Golf Club",
+        "url": "york.miclub.com.au",
+        "leaderboardId": "york"
+    },
+    {
+        "name": "Young Golf Club",
+        "url": "young.miclub.com.au",
+        "leaderboardId": "young"
+    },
+    {
+        "name": "Dunsborough Lakes Golf Club",
+        "url": "dunsborough.miclub.com.au",
+        "leaderboardId": "dunsborough"
+    },
+    {
+        "name": "Kellerberrin",
+        "url": "kellerberrin.miclub.com.au",
+        "leaderboardId": "kellerberrin"
+    },
+    {
+        "name": "Nepean Women's Golf Club",
+        "url": "nepean.miclub.com.au",
+        "leaderboardId": "nepean"
+    },
+    {
+        "name": "Clifton Golf Club",
+        "url": "clifton.miclub.com.au",
+        "leaderboardId": "clifton"
+    },
+    {
+        "name": "Whaleback Golf Course",
+        "url": "whaleback.miclub.com.au",
+        "leaderboardId": "whaleback"
+    },
+    {
+        "name": "Tanunda Pines Golf Club",
+        "url": "tanundapines.miclub.com.au",
+        "leaderboardId": "tanundapines"
+    },
+    {
+        "name": "Carramar Golf Course",
+        "url": "carramar.miclub.com.au",
+        "leaderboardId": "carramar"
+    },
+    {
+        "name": "Korumburra Golf Club",
+        "url": "korumburra.miclub.com.au",
+        "leaderboardId": "korumburra"
+    },
+    {
+        "name": "Sawtell Golf Club",
+        "url": "sawtellgc.miclub.com.au",
+        "leaderboardId": "sawtellgc"
+    },
+    {
+        "name": "East Geelong Golf Club",
+        "url": "eastgeelong.miclub.com.au",
+        "leaderboardId": "eastgeelong"
+    },
+    {
+        "name": "GMA",
+        "url": "gma.miclub.com.au",
+        "leaderboardId": "gma"
+    },
+    {
+        "name": "Heathcote Golf Club",
+        "url": "heathcote.miclub.com.au",
+        "leaderboardId": "heathcote"
+    },
+    {
+        "name": "East Malvern Golf Club",
+        "url": "eastmalvern.miclub.com.au",
+        "leaderboardId": "eastmalvern"
+    },
+    {
+        "name": "Travellers Golf Club",
+        "url": "travellers.miclub.com.au",
+        "leaderboardId": "travellers"
+    },
+    {
+        "name": "Mowbray Golf Club",
+        "url": "mowbray.miclub.com.au",
+        "leaderboardId": "mowbray"
+    },
+    {
+        "name": "Southern Highlands Veterans Golf Assoc",
+        "url": "southernhighlandvets.miclub.com.au",
+        "leaderboardId": "southernhighlandvets"
+    },
+    {
+        "name": "Clare Golf Club",
+        "url": "clare.miclub.com.au",
+        "leaderboardId": "clare"
+    },
+    {
+        "name": "Port Fairy Golf Links",
+        "url": "portfairy.miclub.com.au",
+        "leaderboardId": "portfairy"
+    },
+    {
+        "name": "Mukinbudin Golf Club",
+        "url": "mukinbudin.miclub.com.au",
+        "leaderboardId": "mukinbudin"
+    },
+    {
+        "name": "Goldfields Golf Club",
+        "url": "goldfields.miclub.com.au",
+        "leaderboardId": "goldfields"
+    },
+    {
+        "name": "Armadale & Districts Golf Club",
+        "url": "adgc.miclub.com.au",
+        "leaderboardId": "adgc"
+    },
+    {
+        "name": "Peninsula Social Golf Club",
+        "url": "peninsulasocial.miclub.com.au",
+        "leaderboardId": "peninsulasocial"
+    },
+    {
+        "name": "Helensvale Golf Course",
+        "url": "helensvale.miclub.com.au",
+        "leaderboardId": "helensvale"
+    },
+    {
+        "name": "RAAF Williams Laverton Golf Club",
+        "url": "raafwilliams.miclub.com.au",
+        "leaderboardId": "raafwilliams"
+    },
+    {
+        "name": "Emajin Golf Club",
+        "url": "emajin.miclub.com.au",
+        "leaderboardId": "emajin"
+    },
+    {
+        "name": "Roxby Downs Golf Club",
+        "url": "roxbydownsgc.miclub.com.au",
+        "leaderboardId": "roxbydownsgc"
+    },
+    {
+        "name": "Mawson Lakes Golf Club",
+        "url": "mawsonlakes.miclub.com.au",
+        "leaderboardId": "mawsonlakes"
+    },
+    {
+        "name": "Westgate Golf Club",
+        "url": "westgate.miclub.com.au",
+        "leaderboardId": "westgate"
+    },
+    {
+        "name": "Ocean Shores Country Club",
+        "url": "oceanshores.miclub.com.au",
+        "leaderboardId": "oceanshores"
+    },
+    {
+        "name": "Warwick Golf Club",
+        "url": "warwick.miclub.com.au",
+        "leaderboardId": "warwick"
+    },
+    {
+        "name": "Goombungee Golf Club",
+        "url": "goombungeegc.miclub.com.au",
+        "leaderboardId": "goombungeegc"
+    },
+    {
+        "name": "Mt Martha Golf Course",
+        "url": "mtmarthapublicgc.miclub.com.au",
+        "leaderboardId": "mtmartha"
+    },
+    {
+        "name": "Anglesea Golf Club",
+        "url": "anglesea.miclub.com.au",
+        "leaderboardId": "anglesea"
+    },
+    {
+        "name": "Narromine Golf Club",
+        "url": "narromine.miclub.com.au",
+        "leaderboardId": "narromine"
+    },
+    {
+        "name": "Wyong Golf Club",
+        "url": "wyong.miclub.com.au",
+        "leaderboardId": "wyong"
+    },
+    {
+        "name": "Blayney Golf Club",
+        "url": "blayney.miclub.com.au",
+        "leaderboardId": "blayney"
+    },
+    {
+        "name": "Hume Vets Golf Club",
+        "url": "humevetsgc.miclub.com.au",
+        "leaderboardId": "humevetsgc"
+    },
+    {
+        "name": "Eynesbury Golf",
+        "url": "eynesbury.miclub.com.au",
+        "leaderboardId": "eynesbury"
+    },
+    {
+        "name": "Wagga Wagga Country Club",
+        "url": "wwcc.miclub.com.au",
+        "leaderboardId": "wwcc"
+    },
+    {
+        "name": "Macarthur Vets Golf Assoc",
+        "url": "mvga.miclub.com.au",
+        "leaderboardId": "mvga"
+    },
+    {
+        "name": "Blackwood Golf Club",
+        "url": "blackwood.miclub.com.au",
+        "leaderboardId": "blackwood"
+    },
+    {
+        "name": "Toronto Golf Club",
+        "url": "toronto.miclub.com.au",
+        "leaderboardId": "toronto"
+    },
+    {
+        "name": "Werribee Park Golf Club",
+        "url": "werribeepark.miclub.com.au",
+        "leaderboardId": "werribeepark"
+    },
+    {
+        "name": "Italian Golf Club Sydney",
+        "url": "italiangc.miclub.com.au",
+        "leaderboardId": "italiangc"
+    },
+    {
+        "name": "Beverley Golf Club",
+        "url": "beverley.miclub.com.au",
+        "leaderboardId": "beverley"
+    },
+    {
+        "name": "Point Walter Ladies Golf Club",
+        "url": "pointwalterladiesgc.miclub.com.au",
+        "leaderboardId": "pointwalterladiesgc"
+    },
+    {
+        "name": "Northside Social Golf Club",
+        "url": "northside.miclub.com.au",
+        "leaderboardId": "northside"
+    },
+    {
+        "name": "Gerringong Golf Club",
+        "url": "gerringong.miclub.com.au",
+        "leaderboardId": "gerringong"
+    },
+    {
+        "name": "Hillview Social Club",
+        "url": "hillviewsocial.miclub.com.au",
+        "leaderboardId": "hillviewsocial"
+    },
+    {
+        "name": "Innisfail Golf Club",
+        "url": "innisfailgc.miclub.com.au",
+        "leaderboardId": "innisfailgc"
+    },
+    {
+        "name": "Kyneton Golf Club",
+        "url": "kyneton.miclub.com.au",
+        "leaderboardId": "kyneton"
+    },
+    {
+        "name": "Jubilee Golf Club",
+        "url": "jubileegc.miclub.com.au",
+        "leaderboardId": "jubileegc"
+    },
+    {
+        "name": "Mareeba Golf Club",
+        "url": "mareeba.miclub.com.au",
+        "leaderboardId": "mareeba"
+    },
+    {
+        "name": "Wangaratta Golf Club",
+        "url": "wangaratta.miclub.com.au",
+        "leaderboardId": "wangaratta"
+    },
+    {
+        "name": "Yowani Country Club",
+        "url": "yowani.miclub.com.au",
+        "leaderboardId": "yowani"
+    },
+    {
+        "name": "Narooma Golf Club",
+        "url": "narooma.miclub.com.au",
+        "leaderboardId": "narooma"
+    },
+    {
+        "name": "Bacchus Marsh West Golf Club",
+        "url": "bacchusmarshwest.miclub.com.au",
+        "leaderboardId": "bacchusmarshwest"
+    },
+    {
+        "name": "GMA WA",
+        "url": "gmawa.miclub.com.au",
+        "leaderboardId": "gmawa"
+    },
+    {
+        "name": "Inglewood Golf Club",
+        "url": "inglewood.miclub.com.au",
+        "leaderboardId": "inglewood"
+    },
+    {
+        "name": "Bowral Golf Club",
+        "url": "bowral.miclub.com.au",
+        "leaderboardId": "bowral"
+    },
+    {
+        "name": "WA Police Golf Club",
+        "url": "wapolicegolfclub.miclub.com.au",
+        "leaderboardId": "wapolicegolfclub"
+    },
+    {
+        "name": "Lakelands Golf Club - Gold Coast",
+        "url": "lakelandsgc.miclub.com.au",
+        "leaderboardId": "lakelandsgc"
+    },
+    {
+        "name": "St Leonards Golf Club",
+        "url": "stleonardsgc.miclub.com.au",
+        "leaderboardId": "stleonardsgc"
+    },
+    {
+        "name": "Wagga City Golf Club",
+        "url": "waggacity.miclub.com.au",
+        "leaderboardId": "waggacity"
+    },
+    {
+        "name": "Yea Golf Club",
+        "url": "yea.miclub.com.au",
+        "leaderboardId": "yea"
+    },
+    {
+        "name": "Foster Golf Club",
+        "url": "foster.miclub.com.au",
+        "leaderboardId": "foster"
+    },
+    {
+        "name": "Meadow Springs Golf and Country Club",
+        "url": "meadowsprings.miclub.com.au",
+        "leaderboardId": "meadowsprings"
+    },
+    {
+        "name": "Altone Park Golf Club",
+        "url": "altonepark.miclub.com.au",
+        "leaderboardId": "altonepark"
+    },
+    {
+        "name": "Stanley Golf Club",
+        "url": "stanley.miclub.com.au",
+        "leaderboardId": "stanley"
+    },
+    {
+        "name": "Kalannie Golf Club",
+        "url": "kalannie.miclub.com.au",
+        "leaderboardId": "kalannie"
+    },
+    {
+        "name": "Dirranbandi Golf Club",
+        "url": "dirranbandi.miclub.com.au",
+        "leaderboardId": "dirranbandi"
+    },
+    {
+        "name": "Beerwah Golf Club",
+        "url": "beerwah.miclub.com.au",
+        "leaderboardId": "beerwah"
+    },
+    {
+        "name": "Ardath Golf Club",
+        "url": "ardath.miclub.com.au",
+        "leaderboardId": "ardath"
+    },
+    {
+        "name": "Brisbane River Golf Club",
+        "url": "brisbaneriver.miclub.com.au",
+        "leaderboardId": "brisbaneriver"
+    },
+    {
+        "name": "Yaringa Ladies Golf Club",
+        "url": "yaringa.miclub.com.au",
+        "leaderboardId": "yaringa"
+    },
+    {
+        "name": "Toogoolawah Golf Club",
+        "url": "toogoolawah.miclub.com.au",
+        "leaderboardId": "toogoolawah"
+    },
+    {
+        "name": "Sunshine Coast Challenge Golf",
+        "url": "sccg.miclub.com.au",
+        "leaderboardId": "sccg"
+    },
+    {
+        "name": "Long Reef Golf Club",
+        "url": "longreef.miclub.com.au",
+        "leaderboardId": "longreef"
+    },
+    {
+        "name": "Bordertown Golf Club",
+        "url": "bordertown.miclub.com.au",
+        "leaderboardId": "bordertown"
+    },
+    {
+        "name": "Mitchell Golf Club",
+        "url": "mitchell.miclub.com.au",
+        "leaderboardId": "mitchell"
+    },
+    {
+        "name": "Mansfield Golf Club",
+        "url": "mansfield.miclub.com.au",
+        "leaderboardId": "mansfield"
+    },
+    {
+        "name": "Kiama Golf Club",
+        "url": "kiama.miclub.com.au",
+        "leaderboardId": "kiama"
+    },
+    {
+        "name": "Melton Valley Golf Club",
+        "url": "meltonvalley.miclub.com.au",
+        "leaderboardId": "meltonvalley"
+    },
+    {
+        "name": "South Australian Italian Golf Club",
+        "url": "saigc.miclub.com.au",
+        "leaderboardId": "saigc"
+    },
+    {
+        "name": "Kingston SE Golf Club",
+        "url": "kingstonse.miclub.com.au",
+        "leaderboardId": "kingstonse"
+    },
+    {
+        "name": "Perth Suburban Women's Golf League",
+        "url": "pswgl.miclub.com.au",
+        "leaderboardId": "pswgl"
+    },
+    {
+        "name": "Port Hedland Golf Club",
+        "url": "porthedland.miclub.com.au",
+        "leaderboardId": "porthedland"
+    },
+    {
+        "name": "Australia Golf Club - Hamersley",
+        "url": "australiagc.miclub.com.au",
+        "leaderboardId": "australiagc"
+    },
+    {
+        "name": "Waterford Valley Golf Club (Members)",
+        "url": "waterfordvalley.miclub.com.au",
+        "leaderboardId": "waterfordvalley"
+    },
+    {
+        "name": "Avoca Country Golf Bowls Club",
+        "url": "avoca.miclub.com.au",
+        "leaderboardId": "avoca"
+    },
+    {
+        "name": "Hamersley Ladies Golf Club",
+        "url": "hamersleyladies.miclub.com.au",
+        "leaderboardId": "hamersleyladies"
+    },
+    {
+        "name": "Gundagai District Services Golf Club",
+        "url": "gundagai.miclub.com.au",
+        "leaderboardId": "gundagai"
+    },
+    {
+        "name": "Bingara Gorge Golf Course",
+        "url": "bingaragorge.miclub.com.au",
+        "leaderboardId": "bingaragorge"
+    },
+    {
+        "name": "Gold Creek Country Club",
+        "url": "goldcreek.miclub.com.au",
+        "leaderboardId": "goldcreek"
+    },
+    {
+        "name": "Clubarham Golf Club",
+        "url": "clubarham.miclub.com.au",
+        "leaderboardId": "clubarham"
+    },
+    {
+        "name": "Tattersalls Golf Club",
+        "url": "tattersalls.miclub.com.au",
+        "leaderboardId": "tattersalls"
+    },
+    {
+        "name": "Sortino Golf Club",
+        "url": "sortino.miclub.com.au",
+        "leaderboardId": "sortino"
+    },
+    {
+        "name": "Single Malt Golf Club",
+        "url": "singlemaltgc.miclub.com.au",
+        "leaderboardId": "singlemaltgc"
+    },
+    {
+        "name": "SSLL Golf Club",
+        "url": "sooky.miclub.com.au",
+        "leaderboardId": "sooky"
+    },
+    {
+        "name": "Mt Isa Golf Club",
+        "url": "mtisa.miclub.com.au",
+        "leaderboardId": "mtisa"
+    },
+    {
+        "name": "Hamersley Hackers Golf Club",
+        "url": "hamersleyhackers.miclub.com.au",
+        "leaderboardId": "hamersleyhackers"
+    },
+    {
+        "name": "Scarborough Ladies Golf Club",
+        "url": "scarboroughladies.miclub.com.au",
+        "leaderboardId": "scarboroughladies"
+    },
+    {
+        "name": "Swansea Golf Club",
+        "url": "swansea.miclub.com.au",
+        "leaderboardId": "swansea"
+    },
+    {
+        "name": "Queenscliff Golf Club",
+        "url": "queenscliff.miclub.com.au",
+        "leaderboardId": "queenscliff"
+    },
+    {
+        "name": "Moe Golf Club",
+        "url": "moe.miclub.com.au",
+        "leaderboardId": "moe"
+    },
+    {
+        "name": "Ladies Cosmopolitan Golf Club",
+        "url": "ladiescosmopolitan.miclub.com.au",
+        "leaderboardId": "ladiescosmopolitan"
+    },
+    {
+        "name": "Northbridge Golf Club",
+        "url": "northbridge.miclub.com.au",
+        "leaderboardId": "northbridge"
+    },
+    {
+        "name": "Bula Golf Club",
+        "url": "bula.miclub.com.au",
+        "leaderboardId": "bula"
+    },
+    {
+        "name": "Steve's Test Club",
+        "url": "test01.miclub.com.au",
+        "leaderboardId": "test01"
+    },
+    {
+        "name": "Lancefield Golf Club",
+        "url": "lancefield.miclub.com.au",
+        "leaderboardId": "lancefield"
+    },
+    {
+        "name": "Seabirds Ladies Golf Club",
+        "url": "seabirdsladies.miclub.com.au",
+        "leaderboardId": "seabirdsladies"
+    },
+    {
+        "name": "Tura Beach Country Club",
+        "url": "turabeach.miclub.com.au",
+        "leaderboardId": "turabeach"
+    },
+    {
+        "name": "Westward Ho Golf Club",
+        "url": "adelaideshores.miclub.com.au",
+        "leaderboardId": "adelaideshores"
+    },
+    {
+        "name": "Crows Nest Golf Club",
+        "url": "crowsnest.miclub.com.au",
+        "leaderboardId": "crowsnest"
+    },
+    {
+        "name": "Coastal Ladies Golf Club",
+        "url": "coastalladies.miclub.com.au",
+        "leaderboardId": "coastalladies"
+    },
+    {
+        "name": "Rushmore Golf Club",
+        "url": "rushmore.miclub.com.au",
+        "leaderboardId": "rushmore"
+    },
+    {
+        "name": "Boat of Garten Golf",
+        "url": "boatgolf.miclub.com.au",
+        "leaderboardId": "boatgolf"
+    },
+    {
+        "name": "Burnie Golf Club",
+        "url": "burnie.miclub.com.au",
+        "leaderboardId": "burnie"
+    },
+    {
+        "name": "Hamilton Golf Club",
+        "url": "hamilton.miclub.com.au",
+        "leaderboardId": "hamilton"
+    },
+    {
+        "name": "Shelly Beach Golf Club",
+        "url": "shellybeach.miclub.com.au",
+        "leaderboardId": "shellybeach"
+    },
+    {
+        "name": "Northerners Golf Club",
+        "url": "northerners.miclub.com.au",
+        "leaderboardId": "northerners"
+    },
+    {
+        "name": "Pelican Waters Golf Club",
+        "url": "pelicanwaters.miclub.com.au",
+        "leaderboardId": "pelicanwaters"
+    },
+    {
+        "name": "Warringah Golf Club",
+        "url": "warringah.miclub.com.au",
+        "leaderboardId": "warringah"
+    },
+    {
+        "name": "Churchill and Monash Golf Club",
+        "url": "cmgc.miclub.com.au",
+        "leaderboardId": "cmgc"
+    },
+    {
+        "name": "Tasmania Police Golf Club",
+        "url": "taspolgolf.miclub.com.au",
+        "leaderboardId": "taspolgolf"
+    },
+    {
+        "name": "Waratah Golf Club",
+        "url": "waratah.miclub.com.au",
+        "leaderboardId": "waratah"
+    },
+    {
+        "name": "Ashgrove Golf Club",
+        "url": "ashgrove.miclub.com.au",
+        "leaderboardId": "ashgrove"
+    },
+    {
+        "name": "Cypriot Golf Club",
+        "url": "cypriotgc.miclub.com.au",
+        "leaderboardId": "cypriotgc"
+    },
+    {
+        "name": "Perth Golf Kakis",
+        "url": "pgk.miclub.com.au",
+        "leaderboardId": "pgk"
+    },
+    {
+        "name": "Colac Golf Club",
+        "url": "colac.miclub.com.au",
+        "leaderboardId": "colac"
+    },
+    {
+        "name": "SA Police Golf Club",
+        "url": "sapolicegolfclub.miclub.com.au",
+        "leaderboardId": "sapolicegolfclub"
+    },
+    {
+        "name": "Cohuna Golf Club",
+        "url": "cohuna.miclub.com.au",
+        "leaderboardId": "cohuna"
+    },
+    {
+        "name": "Bardwell Valley Golf Club",
+        "url": "bardwellvalley.miclub.com.au",
+        "leaderboardId": "bardwellvalley"
+    },
+    {
+        "name": "Nelson Bay Golf Club",
+        "url": "nelsonbay.miclub.com.au",
+        "leaderboardId": "nelsonbay"
+    },
+    {
+        "name": "Penola Golf Club",
+        "url": "penola.miclub.com.au",
+        "leaderboardId": "penola"
+    },
+    {
+        "name": "Castlemaine Golf Club",
+        "url": "castlemaine.miclub.com.au",
+        "leaderboardId": "castlemaine"
+    },
+    {
+        "name": "Peninsula Ladies Golf Club",
+        "url": "peninsulaladies.miclub.com.au",
+        "leaderboardId": "peninsulaladies"
+    },
+    {
+        "name": "Junee Golf Club",
+        "url": "junee.miclub.com.au",
+        "leaderboardId": "junee"
+    },
+    {
+        "name": "Tumut Golf Club",
+        "url": "tumutgolfclub.miclub.com.au",
+        "leaderboardId": "tumutgolfclub"
+    },
+    {
+        "name": "Vow Social Golf Club",
+        "url": "vowsocialgc.miclub.com.au",
+        "leaderboardId": "vowsocialgc"
+    },
+    {
+        "name": "Pambula Merimbula Golf Club",
+        "url": "pmgc.miclub.com.au",
+        "leaderboardId": "pmgc"
+    },
+    {
+        "name": "Queanbeyan Golf Club",
+        "url": "queanbeyangolf.miclub.com.au",
+        "leaderboardId": "queanbeyangolf"
+    },
+    {
+        "name": "West Perth Golf Club",
+        "url": "westperthgc.miclub.com.au",
+        "leaderboardId": "westperthgc"
+    },
+    {
+        "name": "Ingham Golf Club",
+        "url": "ingham.miclub.com.au",
+        "leaderboardId": "ingham"
+    },
+    {
+        "name": "Wanderers Golf Club",
+        "url": "wanderersgc.miclub.com.au",
+        "leaderboardId": "wanderersgc"
+    },
+    {
+        "name": "The Links Ladies Golf Club",
+        "url": "linksladiesgc.miclub.com.au",
+        "leaderboardId": "linksladiesgc"
+    },
+    {
+        "name": "Esk Golf Club",
+        "url": "esk.miclub.com.au",
+        "leaderboardId": "esk"
+    },
+    {
+        "name": "Western Kiwi Golf Club",
+        "url": "westernkiwigc.miclub.com.au",
+        "leaderboardId": "westernkiwigc"
+    },
+    {
+        "name": "Marangaroo Ladies Golf Club",
+        "url": "marangarooladies.miclub.com.au",
+        "leaderboardId": "marangarooladies"
+    },
+    {
+        "name": "Tamworth Golf Club",
+        "url": "tamworthgolfclub.miclub.com.au",
+        "leaderboardId": "tamworthgolfclub"
+    },
+    {
+        "name": "The Players Club",
+        "url": "theplayersclub.miclub.com.au",
+        "leaderboardId": "theplayersclub"
+    },
+    {
+        "name": "Maldon Golf Club",
+        "url": "maldon.miclub.com.au",
+        "leaderboardId": "maldon"
+    },
+    {
+        "name": "Sandringham Golf Club",
+        "url": "sandringhamgolf.miclub.com.au",
+        "leaderboardId": "sandringhamgolf"
+    },
+    {
+        "name": "Pelican Golf Association",
+        "url": "pelicangolf.miclub.com.au",
+        "leaderboardId": "pelicangolf"
+    },
+    {
+        "name": "Cerberus Golf Club",
+        "url": "cerberus.miclub.com.au",
+        "leaderboardId": "cerberus"
+    },
+    {
+        "name": "Pemberton Golf Club",
+        "url": "pemberton.miclub.com.au",
+        "leaderboardId": "pemberton"
+    },
+    {
+        "name": "Richmond Golf Club",
+        "url": "richmondgc.miclub.com.au",
+        "leaderboardId": "richmondgc"
+    },
+    {
+        "name": "Yarram Golf Club",
+        "url": "yarram.miclub.com.au",
+        "leaderboardId": "yarram"
+    },
+    {
+        "name": "Capital Golf Club",
+        "url": "thecapitalgc.miclub.com.au",
+        "leaderboardId": "thecapitalgc"
+    },
+    {
+        "name": "Waterford Valley Golf Course",
+        "url": "waterfordvalleygc.miclub.com.au",
+        "leaderboardId": "waterfordvalleygc"
+    },
+    {
+        "name": "Crescent Head Country Club",
+        "url": "crescenthead.miclub.com.au",
+        "leaderboardId": "crescenthead"
+    },
+    {
+        "name": "Fortescue Golf Club",
+        "url": "fortescue.miclub.com.au",
+        "leaderboardId": "fortescue"
+    },
+    {
+        "name": "Leinster Golf Club",
+        "url": "leinster.miclub.com.au",
+        "leaderboardId": "leinster"
+    },
+    {
+        "name": "Whaleback Warriors Golf Club",
+        "url": "whalebackwarriors.miclub.com.au",
+        "leaderboardId": "whalebackwarriors"
+    },
+    {
+        "name": "Myrtleford Golf Club",
+        "url": "myrtleford.miclub.com.au",
+        "leaderboardId": "myrtleford"
+    },
+    {
+        "name": "RACV Healesville Country Club & Resort",
+        "url": "healesville.miclub.com.au",
+        "leaderboardId": "healesville"
+    },
+    {
+        "name": "Bruce Rock Golf Club",
+        "url": "brucerock.miclub.com.au",
+        "leaderboardId": "brucerock"
+    },
+    {
+        "name": "Noosa Springs Golf and Spa Resort",
+        "url": "noosasprings.miclub.com.au",
+        "leaderboardId": "noosasprings"
+    },
+    {
+        "name": "AVGU National Championships",
+        "url": "avguchampionships.miclub.com.au",
+        "leaderboardId": "avguchampionships"
+    },
+    {
+        "name": "Holeseekers",
+        "url": "holeseekers.miclub.com.au",
+        "leaderboardId": "holeseekers"
+    },
+    {
+        "name": "The Victorian Chemists Golf Club",
+        "url": "victorianchemists.miclub.com.au",
+        "leaderboardId": "victorianchemists"
+    },
+    {
+        "name": "Nhill Golf Club",
+        "url": "nhill.miclub.com.au",
+        "leaderboardId": "nhill"
+    },
+    {
+        "name": "Ledge Point Golf Club",
+        "url": "ledgepoint.miclub.com.au",
+        "leaderboardId": "ledgepoint"
+    },
+    {
+        "name": "Fremantle Public Golf Course",
+        "url": "fremantlepublic.miclub.com.au",
+        "leaderboardId": "fremantlepublic"
+    },
+    {
+        "name": "Berwick Montuna Golf Club",
+        "url": "berwickmontuna.miclub.com.au",
+        "leaderboardId": "berwickmontuna"
+    },
+    {
+        "name": "NSW Police Golf Club",
+        "url": "nswpolicegolfclub.miclub.com.au",
+        "leaderboardId": "nswpolicegolfclub"
+    },
+    {
+        "name": "Crookwell Golf Club",
+        "url": "crookwellgc.miclub.com.au",
+        "leaderboardId": "crookwellgc"
+    },
+    {
+        "name": "Bonville Golf Resort",
+        "url": "bonville.miclub.com.au",
+        "leaderboardId": "bonville"
+    },
+    {
+        "name": "Gunnedah Golf Club",
+        "url": "gunnedahgolfclub.miclub.com.au",
+        "leaderboardId": "gunnedahgolfclub"
+    },
+    {
+        "name": "Maylands Peninsula Golf Club",
+        "url": "maylandspeninsula.miclub.com.au",
+        "leaderboardId": "maylandspeninsula"
+    },
+    {
+        "name": "Cobden Golf Club",
+        "url": "cobden.miclub.com.au",
+        "leaderboardId": "cobden"
+    },
+    {
+        "name": "Boonah Golf Club",
+        "url": "boonah.miclub.com.au",
+        "leaderboardId": "boonah"
+    },
+    {
+        "name": "Sagittarius Creek Golf Club",
+        "url": "sagittariuscreek.miclub.com.au",
+        "leaderboardId": "sagittariuscreek"
+    },
+    {
+        "name": "Palm Beach Golf Club",
+        "url": "palmbeachgolf.miclub.com.au",
+        "leaderboardId": "palmbeachgolf"
+    },
+    {
+        "name": "North Brisbane District Veteran Golfers Association",
+        "url": "northbrisbanevets.miclub.com.au",
+        "leaderboardId": "northbrisbanevets"
+    },
+    {
+        "name": "Pacific Harbour Golf & Country Club",
+        "url": "pacificharbour.miclub.com.au",
+        "leaderboardId": "pacificharbour"
+    },
+    {
+        "name": "Cabarlah Golf Club",
+        "url": "cabarlah.miclub.com.au",
+        "leaderboardId": "cabarlah"
+    },
+    {
+        "name": "Army Golf Club",
+        "url": "armygolfclubwa.miclub.com.au",
+        "leaderboardId": "armygolfclubwa"
+    },
+    {
+        "name": "Merewether Golf Club",
+        "url": "merewethergolf.miclub.com.au",
+        "leaderboardId": "merewethergolf"
+    },
+    {
+        "name": "Woodend Golf Club",
+        "url": "woodend.miclub.com.au",
+        "leaderboardId": "woodend"
+    },
+    {
+        "name": "Beaufort Golf Club",
+        "url": "beaufort.miclub.com.au",
+        "leaderboardId": "beaufort"
+    },
+    {
+        "name": "Bundoora Park Golf Club",
+        "url": "bundoorapark.miclub.com.au",
+        "leaderboardId": "bundoorapark"
+    },
+    {
+        "name": "ACT Police Golf Club",
+        "url": "actpolicegolfclub.miclub.com.au",
+        "leaderboardId": "actpolicegolfclub"
+    },
+    {
+        "name": "Warrnambool Golf Club",
+        "url": "warrnambool.miclub.com.au",
+        "leaderboardId": "warrnambool"
+    },
+    {
+        "name": "Maylands & Embleton Golf Courses",
+        "url": "maylandsembleton.miclub.com.au",
+        "leaderboardId": "maylandsembleton"
+    },
+    {
+        "name": "Benalla Golf Club",
+        "url": "benalla.miclub.com.au",
+        "leaderboardId": "benalla"
+    },
+    {
+        "name": "Dungog & Districts Golf Club",
+        "url": "dungog.miclub.com.au",
+        "leaderboardId": "dungog"
+    },
+    {
+        "name": "Cairns Golf Club",
+        "url": "cairns.miclub.com.au",
+        "leaderboardId": "cairns"
+    },
+    {
+        "name": "Royal Port Moresby Golf Club",
+        "url": "royalportmoresby.miclub.com.au",
+        "leaderboardId": "royalportmoresby"
+    },
+    {
+        "name": "Keilor Public Golf Course",
+        "url": "keilorpublic.miclub.com.au",
+        "leaderboardId": "keilorpublic"
+    },
+    {
+        "name": "Phillip Island Golf Club",
+        "url": "phillipislandgc.miclub.com.au",
+        "leaderboardId": "phillipislandgc"
+    },
+    {
+        "name": "Kunlun Golf Club",
+        "url": "kunlun.miclub.com.au",
+        "leaderboardId": "kunlun"
+    },
+    {
+        "name": "Mount Xavier Golf Club",
+        "url": "mtxaviergc.miclub.com.au",
+        "leaderboardId": "mtxaviergc"
+    },
+    {
+        "name": "Garfield Golf Club",
+        "url": "garfield.miclub.com.au",
+        "leaderboardId": "garfield"
+    },
+    {
+        "name": "Coraki Golf Club",
+        "url": "corakigolf.miclub.com.au",
+        "leaderboardId": "corakigolf"
+    },
+    {
+        "name": "Warren Golf Club",
+        "url": "warrengc.miclub.com.au",
+        "leaderboardId": "warrengc"
+    },
+    {
+        "name": "Manilla Golf Club",
+        "url": "manilla.miclub.com.au",
+        "leaderboardId": "manilla"
+    },
+    {
+        "name": "Australian Police Golf Championships",
+        "url": "apgc.miclub.com.au",
+        "leaderboardId": "apgc"
+    },
+    {
+        "name": "Stawell Golf Club",
+        "url": "stawellgolfclub.miclub.com.au",
+        "leaderboardId": "stawellgolfclub"
+    },
+    {
+        "name": "Lowood Golf Club",
+        "url": "lowood.miclub.com.au",
+        "leaderboardId": "lowood"
+    },
+    {
+        "name": "Shortland Waters Golf Club",
+        "url": "shortlandwaters.miclub.com.au",
+        "leaderboardId": "shortlandwaters"
+    },
+    {
+        "name": "Mooroopna Golf Club",
+        "url": "mooroopnagolfclub.miclub.com.au",
+        "leaderboardId": "mooroopnagolfclub"
+    },
+    {
+        "name": "Drouin Golf & Country Club",
+        "url": "drouin.miclub.com.au",
+        "leaderboardId": "drouin"
+    },
+    {
+        "name": "The Fairway Club",
+        "url": "thefairwayclub.miclub.com.au",
+        "leaderboardId": "thefairwayclub"
+    },
+    {
+        "name": "Victoria Police Golf Club",
+        "url": "vicpolgolfclub.miclub.com.au",
+        "leaderboardId": "vicpolgolfclub"
+    },
+    {
+        "name": "Embleton Social Golf Club",
+        "url": "embletonsocialgc.miclub.com.au",
+        "leaderboardId": "embletonsocialgc"
+    },
+    {
+        "name": "Safety Beach Golf Club",
+        "url": "safetybeachgc.miclub.com.au",
+        "leaderboardId": "safetybeachgc"
+    },
+    {
+        "name": "Eden Fishermenâs Recreation Club",
+        "url": "edenfishermens.miclub.com.au",
+        "leaderboardId": "edenfishermens"
+    },
+    {
+        "name": "Lucindale Country Club",
+        "url": "lucindalecc.miclub.com.au",
+        "leaderboardId": "lucindalecc"
+    },
+    {
+        "name": "Cape Wickham Golf Links",
+        "url": "capewickham.miclub.com.au",
+        "leaderboardId": "capewickham"
+    },
+    {
+        "name": "Rottnest Island Golf Club",
+        "url": "rottnestislandgolfclub.miclub.com.au",
+        "leaderboardId": "rottnestislandgolfclub"
+    },
+    {
+        "name": "Victorian Sikh Association Golf Club",
+        "url": "vsagc.miclub.com.au",
+        "leaderboardId": "vsagc"
+    },
+    {
+        "name": "Lake Bolac Golf Club",
+        "url": "lakebolac.miclub.com.au",
+        "leaderboardId": "lakebolac"
+    },
+    {
+        "name": "ABM Golf Club",
+        "url": "abmgolfclub.miclub.com.au",
+        "leaderboardId": "abmgolfclub"
+    },
+    {
+        "name": "Northcote Public Golf Course",
+        "url": "northcotegc.miclub.com.au",
+        "leaderboardId": "northcotegc"
+    },
+    {
+        "name": "Elsternwick Park Womenâs Golf Club",
+        "url": "epwgc.miclub.com.au",
+        "leaderboardId": "epwgc"
+    },
+    {
+        "name": "Swan Vale Golf Club",
+        "url": "swanvalegc.miclub.com.au",
+        "leaderboardId": "swanvalegc"
+    },
+    {
+        "name": "Mount Beauty Golf Club",
+        "url": "mtbeauty.miclub.com.au",
+        "leaderboardId": "mtbeauty"
+    },
+    {
+        "name": "Commercial Club Albury",
+        "url": "alburyccgolf.miclub.com.au",
+        "leaderboardId": "alburyccgolf"
+    },
+    {
+        "name": "ACT Region Veteran Golfers Association",
+        "url": "actvetgolf.miclub.com.au",
+        "leaderboardId": "actvetgolf"
+    },
+    {
+        "name": "Bermagui Country Club",
+        "url": "bermaguicc.miclub.com.au",
+        "leaderboardId": "bermaguicc"
+    },
+    {
+        "name": "SA Oil-Industry Golf Association",
+        "url": "saoga.miclub.com.au",
+        "leaderboardId": "saoga"
+    },
+    {
+        "name": "Esperance Golf Club",
+        "url": "esperance.miclub.com.au",
+        "leaderboardId": "esperance"
+    },
+    {
+        "name": "Port Augusta Golf Club",
+        "url": "pagc.miclub.com.au",
+        "leaderboardId": "pagc"
+    },
+    {
+        "name": "North West Bay Golf Club",
+        "url": "nwbgc.miclub.com.au",
+        "leaderboardId": "nwbgc"
+    },
+    {
+        "name": "QLD Police Golf Club",
+        "url": "qldpolicegolfclub.miclub.com.au",
+        "leaderboardId": "qldpolicegolfclub"
+    },
+    {
+        "name": "Senior Golfers' Society of WA",
+        "url": "seniorgolferswa.miclub.com.au",
+        "leaderboardId": "seniorgolferswa"
+    },
+    {
+        "name": "WA Pharmacy Golf Club",
+        "url": "wapharmacygc.miclub.com.au",
+        "leaderboardId": "wapharmacygc"
+    },
+    {
+        "name": "Burnley Golf Club",
+        "url": "burnleygolfclub.miclub.com.au",
+        "leaderboardId": "burnleygolfclub"
+    },
+    {
+        "name": "Wattle Park Ladies Golf Club",
+        "url": "wattleparkladiesgc.miclub.com.au",
+        "leaderboardId": "wattleparkladiesgc"
+    },
+    {
+        "name": "Meeniyan Golf Club",
+        "url": "meeniyan.miclub.com.au",
+        "leaderboardId": "meeniyan"
+    },
+    {
+        "name": "CGC Melbourne",
+        "url": "cgcmelbourne.miclub.com.au",
+        "leaderboardId": "cgcmelbourne"
+    },
+    {
+        "name": "Quondongs Golf Club",
+        "url": "quondongsgc.miclub.com.au",
+        "leaderboardId": "quondongsgc"
+    },
+    {
+        "name": "Roma Golf Club",
+        "url": "roma.miclub.com.au",
+        "leaderboardId": "roma"
+    },
+    {
+        "name": "Kalamunda Golf Club",
+        "url": "kalamunda.miclub.com.au",
+        "leaderboardId": "kalamunda"
+    },
+    {
+        "name": "Veteran Women Golfer's Association of WA Inc.",
+        "url": "vetwomenwa.miclub.com.au",
+        "leaderboardId": "vetwomenwa"
+    },
+    {
+        "name": "Italian Golf Association",
+        "url": "iga.miclub.com.au",
+        "leaderboardId": "iga"
+    },
+    {
+        "name": "Oberon Golf Club",
+        "url": "oberon.miclub.com.au",
+        "leaderboardId": "oberon"
+    },
+    {
+        "name": "Exeter Golf Club",
+        "url": "exeter.miclub.com.au",
+        "leaderboardId": "exeter"
+    },
+    {
+        "name": "Coleraine Golf Club",
+        "url": "colerainegc.miclub.com.au",
+        "leaderboardId": "colerainegc"
+    },
+    {
+        "name": "QLD Italian Golf Association",
+        "url": "qlditaliangolf.miclub.com.au",
+        "leaderboardId": "qlditaliangolf"
+    },
+    {
+        "name": "McCracken Golf Club",
+        "url": "mccrackengc.miclub.com.au",
+        "leaderboardId": "mccrackengc"
+    },
+    {
+        "name": "Byron Bay Golf Club",
+        "url": "byronbay.miclub.com.au",
+        "leaderboardId": "byronbay"
+    },
+    {
+        "name": "Casino Golf Club",
+        "url": "casino.miclub.com.au",
+        "leaderboardId": "casino"
+    },
+    {
+        "name": "Twin Waters Golf Club",
+        "url": "twinwaters.miclub.com.au",
+        "leaderboardId": "twinwaters"
+    },
+    {
+        "name": "Taroom Golf Club",
+        "url": "taroomgc.miclub.com.au",
+        "leaderboardId": "taroomgc"
+    },
+    {
+        "name": "Massey Park Golf Club",
+        "url": "masseypark.miclub.com.au",
+        "leaderboardId": "masseypark"
+    },
+    {
+        "name": "Barcaldine Golf Club",
+        "url": "barcaldine.miclub.com.au",
+        "leaderboardId": "barcaldine"
+    },
+    {
+        "name": "George Town Golf Club",
+        "url": "georgetown.miclub.com.au",
+        "leaderboardId": "georgetown"
+    },
+    {
+        "name": "Novocastrian Ladies Social Golf Club",
+        "url": "novocastrianladiesgolf.miclub.com.au",
+        "leaderboardId": "novocastrianladiesgolf"
+    },
+    {
+        "name": "Kew Country Club",
+        "url": "kewcc.miclub.com.au",
+        "leaderboardId": "kewcc"
+    },
+    {
+        "name": "Point Walter Golf Course",
+        "url": "pointwalter.miclub.com.au",
+        "leaderboardId": "pointwalter"
+    },
+    {
+        "name": "Warracknabeal Golf Club",
+        "url": "warracknabealgc.miclub.com.au",
+        "leaderboardId": "warracknabealgc"
+    },
+    {
+        "name": "Easts Leisure and Golf",
+        "url": "embc.miclub.com.au",
+        "leaderboardId": "embc"
+    },
+    {
+        "name": "Melbourne District Veterans Golfers Association Inc",
+        "url": "melbournevets.miclub.com.au",
+        "leaderboardId": "melbournevets"
+    },
+    {
+        "name": "ACT Fire Fighters Golf Club",
+        "url": "actff.miclub.com.au",
+        "leaderboardId": "actff"
+    },
+    {
+        "name": "Fiji Golf Club of Victoria",
+        "url": "fijigcvic.miclub.com.au",
+        "leaderboardId": "fijigcvic"
+    },
+    {
+        "name": "Nepean Golf Club",
+        "url": "nepeangc.miclub.com.au",
+        "leaderboardId": "nepeangc"
+    },
+    {
+        "name": "Burnley Womens Golf Club",
+        "url": "burnleywomensgolf.miclub.com.au",
+        "leaderboardId": "burnleywomensgolf"
+    },
+    {
+        "name": "Malvern Valley Public Golf Course",
+        "url": "malvernvalleygc.miclub.com.au",
+        "leaderboardId": "malvernvalleygc"
+    },
+    {
+        "name": "POP Demo",
+        "url": "paceofplaydemo.miclub.com.au",
+        "leaderboardId": "paceofplaydemo"
+    },
+    {
+        "name": "Armidale Golf Club",
+        "url": "armidale.miclub.com.au",
+        "leaderboardId": "armidale"
+    },
+    {
+        "name": "BROGOLF Society",
+        "url": "brogolf.miclub.com.au",
+        "leaderboardId": "brogolf"
+    },
+    {
+        "name": "Wauchope Country Club",
+        "url": "wauchope.miclub.com.au",
+        "leaderboardId": "wauchope"
+    },
+    {
+        "name": "Gatton Jubilee Golf Club",
+        "url": "gattonjubilee.miclub.com.au",
+        "leaderboardId": "gattonjubilee"
+    },
+    {
+        "name": "Hervey Bay Golf Club",
+        "url": "herveybay.miclub.com.au",
+        "leaderboardId": "herveybay"
+    },
+    {
+        "name": "Minnippi Golf Club",
+        "url": "minnippi.miclub.com.au",
+        "leaderboardId": "minnippi"
+    },
+    {
+        "name": "Inverleigh Golf Club",
+        "url": "inverleigh.miclub.com.au",
+        "leaderboardId": "inverleigh"
+    },
+    {
+        "name": "Boyup Brook Golf Club",
+        "url": "boyupbrook.miclub.com.au",
+        "leaderboardId": "boyupbrook"
+    },
+    {
+        "name": "RACV Goldfields Resort",
+        "url": "racvgoldfields.miclub.com.au",
+        "leaderboardId": "racvgoldfields"
+    },
+    {
+        "name": "Chinchilla Golf Club",
+        "url": "chinchillagc.miclub.com.au",
+        "leaderboardId": "chinchillagc"
+    },
+    {
+        "name": "Hyden Golf Club",
+        "url": "hyden.miclub.com.au",
+        "leaderboardId": "hyden"
+    },
+    {
+        "name": "Cammeray Golf",
+        "url": "cammeray.miclub.com.au",
+        "leaderboardId": "cammeray"
+    },
+    {
+        "name": "Kerang Golf Club",
+        "url": "kerang.miclub.com.au",
+        "leaderboardId": "kerang"
+    },
+    {
+        "name": "Stanthorpe Golf Club",
+        "url": "stanthorpe.miclub.com.au",
+        "leaderboardId": "stanthorpe"
+    },
+    {
+        "name": "Tocumwal Golf & Bowls Club",
+        "url": "tocumwal.miclub.com.au",
+        "leaderboardId": "tocumwal"
+    },
+    {
+        "name": "Lancelin Golf Club",
+        "url": "lancelin.miclub.com.au",
+        "leaderboardId": "lancelin"
+    },
+    {
+        "name": "Singleton Golf Club",
+        "url": "singleton.miclub.com.au",
+        "leaderboardId": "singleton"
+    },
+    {
+        "name": "Mt Martha Golf Club",
+        "url": "mtmarthagca.miclub.com.au",
+        "leaderboardId": "mtmarthagca"
+    },
+    {
+        "name": "Victorian Golf League",
+        "url": "victoriangolfleague.miclub.com.au",
+        "leaderboardId": "victoriangolfleague"
+    },
+    {
+        "name": "Alexandra Golf Club",
+        "url": "alexandra.miclub.com.au",
+        "leaderboardId": "alexandra"
+    },
+    {
+        "name": "Bega RSL Golf Club",
+        "url": "bega.miclub.com.au",
+        "leaderboardId": "bega"
+    },
+    {
+        "name": "Bannockburn Golf Club",
+        "url": "bannockburn.miclub.com.au",
+        "leaderboardId": "bannockburn"
+    },
+    {
+        "name": "New South Wales Golf Club",
+        "url": "nswgc.miclub.com.au",
+        "leaderboardId": "nswgc"
+    },
+    {
+        "name": "Yamba Golf & Country Club",
+        "url": "yambagolf.miclub.com.au",
+        "leaderboardId": "yambagolf"
+    },
+    {
+        "name": "Cunderdin Golf Club",
+        "url": "cunderdin.miclub.com.au",
+        "leaderboardId": "cunderdin"
+    },
+    {
+        "name": "Chequers Golf Club",
+        "url": "chequers.miclub.com.au",
+        "leaderboardId": "chequers"
+    },
+    {
+        "name": "Goulburn Golf Club",
+        "url": "goulburn.miclub.com.au",
+        "leaderboardId": "goulburn"
+    },
+    {
+        "name": "Rosewood Golf Club",
+        "url": "rosewood.miclub.com.au",
+        "leaderboardId": "rosewood"
+    },
+    {
+        "name": "Duntryleague",
+        "url": "duntryleague.miclub.com.au",
+        "leaderboardId": "duntryleague"
+    },
+    {
+        "name": "Murray Downs Golf & Country Club",
+        "url": "murraydowns.miclub.com.au",
+        "leaderboardId": "murraydowns"
+    },
+    {
+        "name": "Wanneroo Sports and Social Club",
+        "url": "wsscgolf.miclub.com.au",
+        "leaderboardId": "wsscgolf"
+    },
+    {
+        "name": "The Links Shell Cove",
+        "url": "linksshellcove.miclub.com.au",
+        "leaderboardId": "linksshellcove"
+    },
+    {
+        "name": "Murray Bridge Golf Club",
+        "url": "murraybridge.miclub.com.au",
+        "leaderboardId": "murraybridge"
+    },
+    {
+        "name": "Lakes Entrance Golf Club",
+        "url": "lakesentrance.miclub.com.au",
+        "leaderboardId": "lakesentrance"
+    },
+    {
+        "name": "Royal Wellington Golf Club",
+        "url": "royalwellington.miclub.com.au",
+        "leaderboardId": "royalwellington"
+    },
+    {
+        "name": "Spring Park Golf Course",
+        "url": "springpark.miclub.com.au",
+        "leaderboardId": "springpark"
+    },
+    {
+        "name": "Nyngan Golf Club",
+        "url": "nyngan.miclub.com.au",
+        "leaderboardId": "nyngan"
+    },
+    {
+        "name": "Veterans Golf Club Victoria",
+        "url": "vetsgolfvic.miclub.com.au",
+        "leaderboardId": "vetsgolfvic"
+    },
+    {
+        "name": "Terang Golf Club",
+        "url": "terang.miclub.com.au",
+        "leaderboardId": "terang"
+    },
+    {
+        "name": "Tathra Beach Country Club",
+        "url": "tathrabeach.miclub.com.au",
+        "leaderboardId": "tathrabeach"
+    },
+    {
+        "name": "Kaniva Golf Club",
+        "url": "kaniva.miclub.com.au",
+        "leaderboardId": "kaniva"
+    },
+    {
+        "name": "Isis Golf Club",
+        "url": "isis.miclub.com.au",
+        "leaderboardId": "isis"
+    },
+    {
+        "name": "Portland Golf Club",
+        "url": "portland.miclub.com.au",
+        "leaderboardId": "portland"
+    },
+    {
+        "name": "Maryborough Golf Club",
+        "url": "maryborough.miclub.com.au",
+        "leaderboardId": "maryborough"
+    },
+    {
+        "name": "Poatina Golf Club",
+        "url": "poatina.miclub.com.au",
+        "leaderboardId": "poatina"
+    },
+    {
+        "name": "Longford Golf Club",
+        "url": "longford.miclub.com.au",
+        "leaderboardId": "longford"
+    },
+    {
+        "name": "Andrew's Test",
+        "url": "test03.miclub.com.au",
+        "leaderboardId": "test03"
+    },
+    {
+        "name": "Peterborough Golf Club",
+        "url": "peterborough.miclub.com.au",
+        "leaderboardId": "peterborough"
+    },
+    {
+        "name": "Cobram Barooga Golf Club",
+        "url": "cobrambarooga.miclub.com.au",
+        "leaderboardId": "cobrambarooga"
+    },
+    {
+        "name": "Mornington Peninsula Veterans Golf",
+        "url": "morningtonpeninsulavga.miclub.com.au",
+        "leaderboardId": "morningtonpeninsulavga"
+    },
+    {
+        "name": "Tuross Head Country Club",
+        "url": "turossheadcc.miclub.com.au",
+        "leaderboardId": "turossheadcc"
+    },
+    {
+        "name": "Dysart Golf Club",
+        "url": "dysart.miclub.com.au",
+        "leaderboardId": "Dysart"
+    },
+    {
+        "name": "Gordonvale Golf Club",
+        "url": "gordonvale.miclub.com.au",
+        "leaderboardId": "gordonvale"
+    },
+    {
+        "name": "The Grand Golf Club",
+        "url": "thegrand.miclub.com.au",
+        "leaderboardId": "thegrand"
+    },
+    {
+        "name": "Moonta Golf Club",
+        "url": "moonta.miclub.com.au",
+        "leaderboardId": "moonta"
+    },
+    {
+        "name": "Red Rocks Golf Club",
+        "url": "redrocks.miclub.com.au",
+        "leaderboardId": "redrocks"
+    },
+    {
+        "name": "Belvoir Park Golf Club",
+        "url": "belvoirpark.miclub.com.au",
+        "leaderboardId": "belvoirpark"
+    },
+    {
+        "name": "Chiltern Golf Club",
+        "url": "chiltern.miclub.com.au",
+        "leaderboardId": "chiltern"
+    },
+    {
+        "name": "Eildon Golf Club",
+        "url": "eildon.miclub.com.au",
+        "leaderboardId": "eildon"
+    },
+    {
+        "name": "Trafalgar Golf Club",
+        "url": "trafalgar.miclub.com.au",
+        "leaderboardId": "trafalgar"
+    },
+    {
+        "name": "Pakenham Golf Course",
+        "url": "pakenham.miclub.com.au",
+        "leaderboardId": "pakenham"
+    },
+    {
+        "name": "Working on Golf Social",
+        "url": "workingongolfsocial.miclub.com.au",
+        "leaderboardId": "workingongolfsocial"
+    },
+    {
+        "name": "FRV Social Golf Club",
+        "url": "frvsocial.miclub.com.au",
+        "leaderboardId": "frvsocial"
+    },
+    {
+        "name": "North Rockampton Golf Club",
+        "url": "northrockhampton.miclub.com.au",
+        "leaderboardId": "northrockhampton"
+    },
+    {
+        "name": "Canterbury League Bulldogs Social Golf Club",
+        "url": "canterburylsgc.miclub.com.au",
+        "leaderboardId": "canterburylsgc"
+    },
+    {
+        "name": "Numurkah Golf & Bowls Club",
+        "url": "numurkah.miclub.com.au",
+        "leaderboardId": "numurkah"
+    }
+]
